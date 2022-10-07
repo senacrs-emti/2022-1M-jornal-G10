@@ -9,6 +9,10 @@
     <title>Technews</title>
 </head>
 <header>
+    <div>
+        <a href="index.php"></a>
+        <input class="headersearch" placeholder="Pesquisar" type="search" name="" id="">
+    </div>
     <nav>
         <a href="">Lorem</a>
         <span class="navseparationbar"></span>
