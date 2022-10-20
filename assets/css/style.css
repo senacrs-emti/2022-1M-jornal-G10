@@ -9,7 +9,7 @@ footer{
     background-color: #1A2875;
     display: flex;
     position: absolute;
-    top: 44%;
+    top: 100%;
 }
 .leftsidefooter{
     width: 50%;
@@ -111,4 +111,10 @@ header nav a{
     display: block;
     border-right: solid 1px white;
     height: 3vh;
+}
+
+aside .MaisLidos{
+    height: 50vh;
+    width: 30vh;
+    background-color: black;
 }
