@@ -10,8 +10,9 @@
 </head>
 <header>
     <div>
-        <a href="index.php"></a>
+        <a href="index.php" class="HomeLogo"></a>
         <input class="headersearch" placeholder="Pesquisar" type="search" name="" id="">
+        <a href="#" class="Account"></a>
     </div>
     <nav>
         <a href="">Lorem</a>
