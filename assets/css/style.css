@@ -118,3 +118,30 @@ aside .MaisLidos{
     width: 30vh;
     background-color: black;
 }
+.singIn{
+    margin: auto;
+    margin-top: 80px;
+    background-color: #141F5C;
+    color: white;
+    width: 350px;
+    height: 450px;
+}
+.singIn h2{
+    position: relative;
+    left: 135px;
+    top: 40px;
+}
+.loginRedrection h4{
+    display: inline-block;
+}
+.loginEmail{
+    margin-top: 80px;
+    margin-left: 10px;
+}
+.loginEmail input{
+    border: none;
+    border-radius: 5px;
+    width: 330px;
+    height: 35px;
+    margin-top: 5px;
+}
