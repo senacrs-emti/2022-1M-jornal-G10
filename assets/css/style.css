@@ -122,6 +122,9 @@ header nav a{
     width: 70vw;
 }
 aside{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     height: 170vh;
     width: 30vw;
     background-color: black;
@@ -133,4 +136,21 @@ main .NoticiaTopo{
 main .PropagandaNoticia{
     width: 110vh;
     height: 20ch;
+    background-color: rgba(128, 128, 128, 0.349);
+}
+aside .divbar{
+    margin-top: 5vh;
+    background-color: rgba(0, 0, 0, 0.795);
+    height: 0.05em;
+    width: 85%;
+}
+aside .MaisLidos{
+    margin-top: 5vh;
+    background-color: rgba(128, 0, 128, 0.308);
+    height: 70vh;
+    width: 85%;
+}
+aside .MaisLidos h1{
+    font-size: 2em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
