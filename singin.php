@@ -10,7 +10,7 @@
 <body style="background-color: ;">
     <main>
         <div class="singIn">
-            <h2>Login</h2>
+            <img src="./img/LogoNewColor.png" alt="">
             <div class="loginEmail">
                 <h4>Email</h4>
                 <input type="email" name="email" id="inputEmail">
@@ -18,13 +18,16 @@
             <div class="loginPas">
                 <h4>Password</h4>
                 <input type="password" name="password" id="inputPassword">
+                <input type="checkbox" onclick="myFunction()">Show Password
             </div>
             <div class="loginRedrection">
+                <input type="submit" value="Entrar">
                 <hr>
                 <h4>não tem uma conta?</h4>
                 <a href="singup.php"><h4>Registre-se</h4></a>
             </div>
         </div>
     </main>
+    <script src="./assets/js/script.js"></script>
 </body>
 </html>

@@ -137,9 +137,10 @@ aside{
     width: 350px;
     height: 450px;
 }
-.singIn h2{
+.singIn img{
+    height: 30px;
     position: relative;
-    left: 135px;
+    left: 82px;
     top: 40px;
 }
 .loginRedrection h4{
@@ -155,6 +156,48 @@ aside{
     width: 330px;
     height: 35px;
     margin-top: 5px;
+}
+.loginPas{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.loginPas input:first-of-type{
+    border: none;
+    border-radius: 5px;
+    width: 330px;
+    height: 35px;
+    margin-top: 5px;
+}
+.loginPas input:last-of-type{
+    margin-top: 2%;
+}
+.loginRedrection input{
+    background-color: #1A2875;
+    width: 200px;
+    height: 40px;
+    margin-bottom: 5%;
+    margin-left: 20%;
+    border: 1px solid white;
+    color: white;
+}
+.loginRedrection input:hover{
+    background-color: skyblue;
+}
+.loginRedrection{
+    margin-top: 30px;
+}
+.loginRedrection hr{
+    width: 80%;
+    margin-left: 8%;
+    margin-top: 8%;
+}
+.loginRedrection h4{
+    margin-top: 3%;
+    font-size: 16px;
+    margin-left: 13%;
+}
+.loginRedrection a h4{
+    margin-left: -0.5%;
 }
 main .NoticiaTopo{
     display: flex;
