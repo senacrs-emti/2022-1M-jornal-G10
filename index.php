@@ -2,12 +2,15 @@
 <?php 
 include_once './include/_header.php';
 ?>
-
-<main>
-
-</main>
+<div class="corpo">
+    <main>
+    
+    </main>
+    <?php
+    include_once './include/_aside.php';
+    ?>
+</div>
 
 <?php 
-include_once './include/_aside.php';
 include_once './include/_footer.php';
 ?>
