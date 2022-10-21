@@ -24,7 +24,7 @@
                 <input type="submit" value="Entrar">
                 <hr>
                 <h4>não tem uma conta?</h4>
-                <a href="singup.php"><h4>Registre-se</h4></a>
+                <a href="signup.php"><h4>Registre-se</h4></a>
             </div>
         </div>
     </main>
