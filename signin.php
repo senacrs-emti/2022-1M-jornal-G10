@@ -9,7 +9,7 @@
 </head>
 <body style="background-color: ;">
     <main>
-        <div class="singIn">
+        <div class="signIn">
             <img src="./img/LogoNewColor.png" alt="">
             <div class="loginEmail">
                 <h4>Email</h4>
