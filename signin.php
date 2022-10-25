@@ -4,29 +4,33 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Sign-In</title>
     <link rel="stylesheet" href="./assets/css/style.css">
 </head>
-<body style="background-color: ;">
+<body style="background-color: #1A2875;">
     <main>
-        <div class="signIn">
-            <img src="./img/LogoNewColor.png" alt="">
-            <div class="loginEmail">
+        <form action="#">
+        <div class="login">
+            <img src="img/LogoNewColor.png" alt="">
+            <div class="inputEmail">
                 <h4>Email</h4>
-                <input type="email" name="email" id="inputEmail">
+                <input type="email" name="loginEmail" id="loginEmail" placeholder="Digite seu email">
             </div>
-            <div class="loginPas">
-                <h4>Password</h4>
-                <input type="password" name="password" id="inputPassword">
-                <input type="checkbox" onclick="myFunction()">Show Password
+            <div class="inputPassword">
+                <h4>Senha</h4>
+                <input type="loginPassword" name="loginPassword" id="inputPassword" placeholder="Digite sua senha">
+                <a href="forgotpassword.php"><h5>Esqueceu sua senha?</h5></a>
             </div>
-            <div class="loginRedrection">
-                <input type="submit" value="Entrar">
+            <div class="loginButton">
+                <input type="submit" value="Sign-in">
+            </div>
+            <div class="redirectionPage">
                 <hr>
-                <h4>não tem uma conta?</h4>
-                <a href="signup.php"><h4>Registre-se</h4></a>
+                <h3>Não possui uma conta?</h3>
+                <a href="signup.php"><h3>Registre-se</h3></a>
             </div>
         </div>
+        </form>
     </main>
     <script src="./assets/js/script.js"></script>
 </body>

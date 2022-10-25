@@ -129,76 +129,6 @@ aside{
     height: 170vh;
     width: 30vw;
 }
-.singIn{
-    margin: auto;
-    margin-top: 80px;
-    background-color: #141F5C;
-    color: white;
-    width: 350px;
-    height: 450px;
-}
-.signIn img{
-    height: 30px;
-    position: relative;
-    left: 82px;
-    top: 40px;
-}
-.loginRedrection h4{
-    display: inline-block;
-}
-.loginEmail{
-    margin-top: 80px;
-    margin-left: 10px;
-}
-.loginEmail input{
-    border: none;
-    border-radius: 5px;
-    width: 330px;
-    height: 35px;
-    margin-top: 5px;
-}
-.loginPas{
-    margin-top: 20px;
-    margin-left: 10px;
-}
-.loginPas input:first-of-type{
-    border: none;
-    border-radius: 5px;
-    width: 330px;
-    height: 35px;
-    margin-top: 5px;
-}
-.loginPas input:last-of-type{
-    margin-top: 2%;
-}
-.loginRedrection input{
-    background-color: #1A2875;
-    width: 200px;
-    height: 40px;
-    margin-bottom: 5%;
-    margin-left: 20%;
-    border: 1px solid white;
-    color: white;
-}
-.loginRedrection input:hover{
-    background-color: skyblue;
-}
-.loginRedrection{
-    margin-top: 30px;
-}
-.loginRedrection hr{
-    width: 80%;
-    margin-left: 8%;
-    margin-top: 8%;
-}
-.loginRedrection h4{
-    margin-top: 3%;
-    font-size: 16px;
-    margin-left: 13%;
-}
-.loginRedrection a h4{
-    margin-left: -0.5%;
-}
 main .NoticiaTopo{
     display: flex;
     justify-content: center;
@@ -227,4 +157,215 @@ aside .MaisLidos h1{
 }
 aside .MaisLidos .ArtigosMaisLidos .box1MaisLidos h3{
     font-weight:normal;
+}
+.login{
+    background-color: #141F5C;
+    max-width: 350px;
+    min-height: 450px;
+    color: white;
+    margin: auto;
+    margin-top: 15%;
+}
+.login img{
+    height: 33px;
+    margin-top: 10%;
+    margin-left: 20%;
+}
+.inputEmail{
+    margin-top: 10%;
+    margin-left: 25px;
+}
+.inputEmail h4{
+    font-size: 15px;
+}
+.inputEmail input{
+    background: url(../../img/Email.png) white no-repeat;
+    background-size: 1.5em;
+    background-position: 20em 0.6em;
+    border: none;
+    border-radius: 5px;
+    width: 90%;
+    min-height: 35px;
+    outline: none;
+    padding-left: 5px;
+}
+.inputEmail input:focus{
+    background-color: whitesmoke;
+}
+.inputPassword{
+    margin-top: 10%;
+    margin-left: 25px;
+}
+.inputPassword h4{
+    font-size: 15px;
+}
+.inputPassword input{
+    background: url(../../img/eye.png) white no-repeat;
+    background-size: 1.8em;
+    background-position: 20em 0.5em;
+    border: none;
+    border-radius: 5px;
+    width: 90%;
+    min-height: 35px;
+    outline: none;
+    padding-left: 5px;
+}
+.inputPassword input:focus{
+    background-color: whitesmoke;
+}
+.inputPassword h5{
+    float: right;
+    text-decoration: none;
+    color: #206EF5;
+    margin-right: 8%;
+    margin-top: 1%;
+}
+.loginButton{
+    margin-top: 15%;
+    margin-left: 27%;
+}
+.loginButton input{
+    background-color: #1A2875;
+    width: 60%;
+    min-height: 40px;
+    border: 1px solid white;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+}
+.redirectionPage hr{
+    width: 80%;
+    margin-top: 10%;
+    margin-left: 8%;
+}
+.redirectionPage h3{
+    font-size: 15px;
+    display: inline-block;
+    margin-top: 2%;
+    margin-left: 12%;
+}
+.redirectionPage a h3{
+    color: #206EF5;
+    text-decoration: none;
+    margin-left: -0.1%;
+}
+.register{
+    background-color: #141F5C;
+    max-width: 350px;
+    min-height: 450px;
+    color: white;
+    margin: auto;
+    margin-top: 15%;
+}
+.register img{
+    height: 33px;
+    margin-top: 10%;
+    margin-left: 20%;
+}
+.registerUser{
+    margin-top: 10%;
+    margin-left: 25px;
+}
+.registerUser h3{
+    font-size: 15px;
+}
+.registerUser input{
+    border: none;
+    border-radius: 5px;
+    width: 90%;
+    min-height: 35px;
+    padding-left: 5px;
+    outline: none;
+}
+.registerEmail{
+    margin-top: 10%;
+    margin-left: 25px;
+}
+.registerEmail h3{
+    font-size: 15px;
+}
+.registerEmail input{
+    border: none;
+    border-radius: 5px;
+    width: 90%;
+    min-height: 35px;
+    padding-left: 5px;
+    outline: none;
+}
+.registerPassword{
+    margin-top: 10%;
+    margin-left: 25px;
+}
+.registerPassword h3{
+    font-size: 15px;
+}
+.registerPassword input{
+    border: none;
+    border-radius: 5px;
+    width: 90%;
+    min-height: 35px;
+    padding-left: 5px;
+    outline: none;
+}
+.registerButton{
+    margin-top: 30px;
+    margin-left: 100px;
+}
+.registerButton input{
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+    border: 1px solid white;
+    background-color: #1A2875;
+    width: 60%;
+    min-height: 40px;
+}
+.forgotPassword{
+    background-color: #141F5C;
+    max-width: 350px;
+    min-height: 350px;
+    color: white;
+    margin: auto;
+    margin-top: 15%;
+}
+.forgotPassword img{
+    height: 33px;
+    margin-top: 10%;
+    margin-left: 20%;
+}
+.forgotPassword h3{
+    font-size: 15px;
+}
+.forgotPassword-email{
+    margin-top: 10%;
+    margin-left: 25px;
+}
+.forgotPassword-email input{
+    border: none;
+    border-radius: 5px;
+    width: 90%;
+    min-height: 35px;
+    padding-left: 5px;
+    outline: none;
+}
+.forgotPassword-button{
+    margin-top: 30px;
+    margin-left: 20%;
+}
+.forgotPassword-button input{
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+    border: 1px solid white;
+    background-color: #1A2875;
+    width: 70%;
+    min-height: 40px;
+}
+.forgotPassword-guide{
+    font-size: 15px;
+    width: 85%;
+    margin: 6% 7%;
+}
+.forgotPassword-guide p{
+    text-align: justify;
 }
