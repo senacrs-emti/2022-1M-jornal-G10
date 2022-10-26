@@ -14,30 +14,32 @@ footer{
 .leftsidefooter{
     width: 50%;
     height: 100%;
+    align-items: center;
+    justify-content: center;
 }
 footer .logo{
+    height: 11vh;
     position: relative;
-    left: 10vh;
-    top: 15vh;
-    height: 4em;
+    top: 18vh;
+    left: 6.5vw;
 }
 .footerlinha{
     background-color: white;
-    width: 23em;
-    height: 4px;
-    position: absolute;
-    top: 11em;
-    left: 4.2em;
+    width: 29vw;
+    height: 0.5vh;
+    position: relative;
+    top: 20vh;
+    left: 7.5vw;
 }
 .sloganfooter{
     color: white;
-    font-size: 1.3em;
+    font-size: clamp(20px, 10%, 20px);
     width: 350px;
     height: 30px;
     text-align: center;
-    position: absolute;
-    top: 9.7em;
-    left: 3.5em;
+    position: relative;
+    top: 22vh;
+    left: 8.4vw;
 }
 .rightsidefooter{
     width: 50%;
