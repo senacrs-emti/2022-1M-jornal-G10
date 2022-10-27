@@ -157,8 +157,24 @@ aside .MaisLidos h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin-bottom: 2vh;
 }
+aside .MaisLidos .ArtigosMaisLidos{
+    display: flex;
+    flex-direction: row;
+    margin-top: 3vh;
+}
 aside .MaisLidos .ArtigosMaisLidos .box1MaisLidos h3{
-    font-weight:normal;
+    font-weight:bold;
+}
+aside .MaisLidos .ArtigosMaisLidos .box1MaisLidos p{
+    margin-top: 2vh;
+    font-size: 0.7em;
+    color: rgba(0, 0, 0, 0.541);
+}
+aside .MaisLidos .ArtigosMaisLidos .box2MaisLidos{
+    background-color: black;
+    border-radius: 10px;
+    height: 15vh;
+    width: 10vw;
 }
 .login{
     background-color: #141F5C;
