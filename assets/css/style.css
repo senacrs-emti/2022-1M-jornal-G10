@@ -143,11 +143,23 @@ header nav a{
 }
 .corpo .ArtigoNoticia{
     display: flex;
+    align-items: center;
+    flex-direction: column;
     width: 70vw;
+    margin-top: 200px;
+}
+.NoticiaTopo .divbarNoticia{
+    display: block;
+    background-color: black;
+    height: 0.05em;
+    width: 90%;
 }
 main .NoticiaTopo{
     display: flex;
     justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
 }
 main .PropagandaNoticia{
     width: 110vh;

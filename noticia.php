@@ -10,6 +10,7 @@ include_once './include/_header.php';
     </div>
     <div class="corpo">
         <div class="ArtigoNoticia">
+            <img src="img/preto.png" width="500vh">
         </div>
         <?php
         include_once './include/_aside.php';
