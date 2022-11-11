@@ -4,6 +4,10 @@ include_once './include/_header.php';
 ?>
 
 <main>
+<img class="sim" src="img/sim.jpg" alt="aaaa">
+<div class="notq-1"></div>
+<div class="notq-2"></div>
+<div class="notq-3"></div>
     <div class="NoticiaTopo">
 
     </div>

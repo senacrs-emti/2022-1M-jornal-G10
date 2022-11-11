@@ -387,3 +387,27 @@ aside .MaisLidos .ArtigosMaisLidos .box2MaisLidos{
 .forgotPassword-guide p{
     text-align: justify;
 }
+.notq-1{
+    background-color: #206EF5;
+    height: 22.5vh;
+    width: 45vh;
+    float: left;
+}
+.notq-2{
+    background-color: #206EF5;
+    height: 22.5vh;
+    width: 45vh;
+    float: left;
+}
+.notq-3{
+    background-color: #206EF5;
+    height: 22.5vh;
+    width: 45vh;
+    float: left;
+}
+.sim{
+    height: 70vh;
+    width: 140vh;
+    margin-left: 50vh;
+    margin-top: 10vh;
+}
