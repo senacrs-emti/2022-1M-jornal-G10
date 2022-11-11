@@ -9,7 +9,7 @@ footer{
     background-color: #1A2875;
     display: flex;
     position: absolute;
-    top: 200vh;
+    top: 260vh;
 }
 .leftsidefooter{
     width: 50%;
@@ -151,7 +151,28 @@ header nav a{
 }
 .corpo .ArtigoNoticia{
     display: flex;
+    align-items: center;
+    flex-direction: column;
     width: 70vw;
+    margin-top: 200px;
+}
+.NoticiaTopo .divbarNoticia{
+    display: block;
+    background-color: black;
+    height: 0.05em;
+    width: 90%;
+}
+main .NoticiaTopo{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+}
+main .PropagandaNoticia{
+    width: 110vh;
+    height: 20ch;
+    background-color: rgba(128, 128, 128, 0.349);
 }
 aside{
     display: flex;
@@ -160,25 +181,22 @@ aside{
     height: 170vh;
     width: 30vw;
 }
-main .NoticiaTopo{
-    display: flex;
-    justify-content: center;
-}
-main .PropagandaNoticia{
-    width: 110vh;
-    height: 20ch;
-    background-color: rgba(128, 128, 128, 0.349);
-}
 aside .divbaraside{
+    display: block;
     margin-top: 5vh;
     background-color: rgba(0, 0, 0, 0.795);
     height: 0.05em;
     width: 85%;
 }
+aside .divbaraside2{
+    display: block;
+    background-color: rgba(0, 0, 0, 0.795);
+    height: 0.04em;
+    width: 100%;
+}
 aside .MaisLidos{
     margin-top: 5vh;
-    background-color: rgba(128, 0, 128, 0.308);
-    height: 70vh;
+    height: 90.5vh;
     width: 85%;
 }
 aside .MaisLidos h1{
@@ -190,6 +208,7 @@ aside .MaisLidos .ArtigosMaisLidos{
     display: flex;
     flex-direction: row;
     margin-top: 3vh;
+    margin-bottom: 3vh;
 }
 aside .MaisLidos .ArtigosMaisLidos .box1MaisLidos h3{
     font-weight:bold;
@@ -205,21 +224,32 @@ aside .MaisLidos .ArtigosMaisLidos .box2MaisLidos{
     height: 15vh;
     width: 10vw;
 }
+aside .AsidePropaganda .AsidePropagandaImg{
+    background-color: black;
+    height: 30vh;
+    width: 25vw;
+    margin-top: 3vh;
+    margin-bottom: 3vh;
+    border-radius: 10px;
+}
 .login{
     background-color: #141F5C;
     max-width: 350px;
-    min-height: 450px;
+    min-height: 530px;
     color: white;
     margin: auto;
-    margin-top: 15%;
+    margin-top: 3%;
+    border-radius: 10px;
+    border: 1px solid white;
+    box-shadow: 0 1px 10px white;
 }
 .login img{
     height: 33px;
-    margin-top: 10%;
+    margin-top: 14%;
     margin-left: 20%;
 }
 .inputEmail{
-    margin-top: 10%;
+    margin-top: 13%;
     margin-left: 25px;
 }
 .inputEmail h4{
@@ -268,7 +298,7 @@ aside .MaisLidos .ArtigosMaisLidos .box2MaisLidos{
     margin-top: 1%;
 }
 .loginButton{
-    margin-top: 15%;
+    margin-top: 18%;
     margin-left: 27%;
 }
 .loginButton input{
@@ -282,7 +312,7 @@ aside .MaisLidos .ArtigosMaisLidos .box2MaisLidos{
 }
 .redirectionPage hr{
     width: 80%;
-    margin-top: 10%;
+    margin-top: 13%;
     margin-left: 8%;
 }
 .redirectionPage h3{
@@ -299,18 +329,21 @@ aside .MaisLidos .ArtigosMaisLidos .box2MaisLidos{
 .register{
     background-color: #141F5C;
     max-width: 350px;
-    min-height: 450px;
+    min-height: 530px;
     color: white;
     margin: auto;
-    margin-top: 15%;
+    margin-top: 3%;
+    border-radius: 10px;
+    border: 1px solid white;
+    box-shadow: 0 1px 10px white;
 }
 .register img{
     height: 33px;
-    margin-top: 10%;
+    margin-top: 14%;
     margin-left: 20%;
 }
 .registerUser{
-    margin-top: 10%;
+    margin-top: 12%;
     margin-left: 25px;
 }
 .registerUser h3{
@@ -325,7 +358,7 @@ aside .MaisLidos .ArtigosMaisLidos .box2MaisLidos{
     outline: none;
 }
 .registerEmail{
-    margin-top: 10%;
+    margin-top: 12%;
     margin-left: 25px;
 }
 .registerEmail h3{
@@ -340,7 +373,7 @@ aside .MaisLidos .ArtigosMaisLidos .box2MaisLidos{
     outline: none;
 }
 .registerPassword{
-    margin-top: 10%;
+    margin-top: 12%;
     margin-left: 25px;
 }
 .registerPassword h3{
@@ -355,7 +388,7 @@ aside .MaisLidos .ArtigosMaisLidos .box2MaisLidos{
     outline: none;
 }
 .registerButton{
-    margin-top: 30px;
+    margin-top: 15%;
     margin-left: 100px;
 }
 .registerButton input{
@@ -373,7 +406,10 @@ aside .MaisLidos .ArtigosMaisLidos .box2MaisLidos{
     min-height: 350px;
     color: white;
     margin: auto;
-    margin-top: 15%;
+    margin-top: 10%;
+    border-radius: 10px;
+    border: 1px solid white;
+    box-shadow: 0 1px 10px white;
 }
 .forgotPassword img{
     height: 33px;
@@ -415,4 +451,28 @@ aside .MaisLidos .ArtigosMaisLidos .box2MaisLidos{
 }
 .forgotPassword-guide p{
     text-align: justify;
+}
+.notq-1{
+    background-color: #206EF5;
+    height: 22.5vh;
+    width: 45vh;
+    float: left;
+}
+.notq-2{
+    background-color: #206EF5;
+    height: 22.5vh;
+    width: 45vh;
+    float: left;
+}
+.notq-3{
+    background-color: #206EF5;
+    height: 22.5vh;
+    width: 45vh;
+    float: left;
+}
+.sim{
+    height: 70vh;
+    width: 140vh;
+    margin-left: 50vh;
+    margin-top: 10vh;
 }
