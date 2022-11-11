@@ -5,45 +5,66 @@
 }
 footer{
     width: 100%;
-    height: 56vh;
+    height: 28vh;
     background-color: #1A2875;
     display: flex;
     position: absolute;
-    top: 193vh;
+    top: 200vh;
 }
 .leftsidefooter{
     width: 50%;
     height: 100%;
-    align-items: center;
-    justify-content: center;
 }
 footer .logo{
-    height: 11vh;
+    height: 7.5vh;
     position: relative;
-    top: 18vh;
-    left: 6.5vw;
+    top: 7vh;
+    left: 8vw;
 }
 .footerlinha{
     background-color: white;
-    width: 29vw;
-    height: 0.5vh;
+    width: 19.5vw;
+    height: 0.35vh;
     position: relative;
-    top: 20vh;
-    left: 7.5vw;
+    top: 8vh;
+    left: 8.80vw;
 }
 .sloganfooter{
     color: white;
-    font-size: clamp(20px, 10%, 20px);
-    width: 350px;
-    height: 30px;
+    font-size: clamp(18px, 10%, 18px);
+    width: 235px;
+    height: 20px;
     text-align: center;
     position: relative;
-    top: 22vh;
-    left: 8.4vw;
+    top: 9vh;
+    left: 7.9vw;
 }
 .rightsidefooter{
     width: 50%;
     height: 100%;
+}
+footer .face{
+    width: 3.5vw;
+    position: relative;
+    top: 7.5vh;
+    left: 6.5vw;
+}
+footer .tt{
+    width: 3.5vw;
+    position: relative;
+    top: 7.5vh;
+    left: 7.5vw;
+}
+footer .em2{
+    width: 3.5vw;
+    position: relative;
+    top: 14.5vh;
+    right: 1.7vw;
+}
+footer .ins{
+    width: 3.5vw;
+    position: relative;
+    top: 14.5vh;
 }
 header{
     display: flex;
