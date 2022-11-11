@@ -9,7 +9,7 @@ footer{
     background-color: #1A2875;
     display: flex;
     position: absolute;
-    top: 193vh;
+    top: 300vh;
 }
 .leftsidefooter{
     width: 50%;
@@ -124,13 +124,6 @@ header nav a{
     display: flex;
     width: 70vw;
 }
-aside{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    height: 170vh;
-    width: 30vw;
-}
 main .NoticiaTopo{
     display: flex;
     justify-content: center;
@@ -140,16 +133,29 @@ main .PropagandaNoticia{
     height: 20ch;
     background-color: rgba(128, 128, 128, 0.349);
 }
+aside{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 170vh;
+    width: 30vw;
+}
 aside .divbaraside{
+    display: block;
     margin-top: 5vh;
     background-color: rgba(0, 0, 0, 0.795);
     height: 0.05em;
     width: 85%;
 }
+aside .divbaraside2{
+    display: block;
+    background-color: rgba(0, 0, 0, 0.795);
+    height: 0.04em;
+    width: 100%;
+}
 aside .MaisLidos{
     margin-top: 5vh;
-    background-color: rgba(128, 0, 128, 0.308);
-    height: 70vh;
+    height: 90.5vh;
     width: 85%;
 }
 aside .MaisLidos h1{
@@ -161,6 +167,7 @@ aside .MaisLidos .ArtigosMaisLidos{
     display: flex;
     flex-direction: row;
     margin-top: 3vh;
+    margin-bottom: 3vh;
 }
 aside .MaisLidos .ArtigosMaisLidos .box1MaisLidos h3{
     font-weight:bold;
@@ -175,6 +182,14 @@ aside .MaisLidos .ArtigosMaisLidos .box2MaisLidos{
     border-radius: 10px;
     height: 15vh;
     width: 10vw;
+}
+aside .AsidePropaganda .AsidePropagandaImg{
+    background-color: black;
+    height: 30vh;
+    width: 25vw;
+    margin-top: 3vh;
+    margin-bottom: 3vh;
+    border-radius: 10px;
 }
 .login{
     background-color: #141F5C;
