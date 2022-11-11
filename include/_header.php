@@ -12,20 +12,20 @@
     <div>
         <a href="index.php" class="HomeLogo"></a>
         <input class="headersearch" placeholder="Pesquisar" type="search" name="" id="">
-        <a href="#" class="Account"></a>
+        <a href="signin.php" class="Account"></a>
     </div>
     <nav>
-        <a href="">Lorem</a>
+        <a href="esportes.php">Esportes</a>
         <span class="navseparationbar"></span>
-        <a href="">Lorem</a>
+        <a href="">Novidades</a>
         <span class="navseparationbar"></span>
-        <a href="">Lorem</a>
+        <a href="">Entretenimento</a>
         <span class="navseparationbar"></span>
-        <a href="">Lorem</a>
+        <a href="">Aplicativos</a>
         <span class="navseparationbar"></span>
-        <a href="">Lorem</a>
+        <a href="">Medicina</a>
         <span class="navseparationbar"></span>
-        <a href="">Lorem</a>
+        <a href="">Espaço</a>
     </nav>
 </header>
 
