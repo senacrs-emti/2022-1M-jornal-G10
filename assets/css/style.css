@@ -18,7 +18,7 @@ footer{
 footer .logo{
     height: 7.5vh;
     position: relative;
-    top: 7vh;
+    top: 6vh;
     left: 8vw;
 }
 .footerlinha{
@@ -26,7 +26,7 @@ footer .logo{
     width: 19.5vw;
     height: 0.35vh;
     position: relative;
-    top: 8vh;
+    top: 7vh;
     left: 8.80vw;
 }
 .sloganfooter{
@@ -36,8 +36,8 @@ footer .logo{
     height: 20px;
     text-align: center;
     position: relative;
-    top: 9vh;
-    left: 7.9vw;
+    top: 8vh;
+    left: 9.5vw;
 }
 .rightsidefooter{
     width: 50%;
@@ -47,7 +47,7 @@ footer .face{
     width: 3.5vw;
     position: relative;
     top: 7.5vh;
-    left: 6.5vw;
+    left: 1vw;
 }
 footer .tt{
     width: 3.5vw;
@@ -58,13 +58,21 @@ footer .tt{
 footer .em2{
     width: 3.5vw;
     position: relative;
-    top: 14.5vh;
+    top: 7.5vh;
     right: 1.7vw;
 }
 footer .ins{
     width: 3.5vw;
     position: relative;
-    top: 14.5vh;
+    top: 7.5vh;
+    left: 4.5vw;
+}
+footer .ctts{
+    height: 130px;
+    width: 300px;
+    position: relative;
+    left: 25vw;
+    top: 2vw;
 }
 header{
     display: flex;
