@@ -215,18 +215,21 @@ aside .AsidePropaganda .AsidePropagandaImg{
 .login{
     background-color: #141F5C;
     max-width: 350px;
-    min-height: 450px;
+    min-height: 530px;
     color: white;
     margin: auto;
-    margin-top: 15%;
+    margin-top: 3%;
+    border-radius: 10px;
+    border: 1px solid white;
+    box-shadow: 0 1px 10px white;
 }
 .login img{
     height: 33px;
-    margin-top: 10%;
+    margin-top: 14%;
     margin-left: 20%;
 }
 .inputEmail{
-    margin-top: 10%;
+    margin-top: 13%;
     margin-left: 25px;
 }
 .inputEmail h4{
@@ -275,7 +278,7 @@ aside .AsidePropaganda .AsidePropagandaImg{
     margin-top: 1%;
 }
 .loginButton{
-    margin-top: 15%;
+    margin-top: 18%;
     margin-left: 27%;
 }
 .loginButton input{
@@ -289,7 +292,7 @@ aside .AsidePropaganda .AsidePropagandaImg{
 }
 .redirectionPage hr{
     width: 80%;
-    margin-top: 10%;
+    margin-top: 13%;
     margin-left: 8%;
 }
 .redirectionPage h3{
@@ -306,18 +309,21 @@ aside .AsidePropaganda .AsidePropagandaImg{
 .register{
     background-color: #141F5C;
     max-width: 350px;
-    min-height: 450px;
+    min-height: 530px;
     color: white;
     margin: auto;
-    margin-top: 15%;
+    margin-top: 3%;
+    border-radius: 10px;
+    border: 1px solid white;
+    box-shadow: 0 1px 10px white;
 }
 .register img{
     height: 33px;
-    margin-top: 10%;
+    margin-top: 14%;
     margin-left: 20%;
 }
 .registerUser{
-    margin-top: 10%;
+    margin-top: 12%;
     margin-left: 25px;
 }
 .registerUser h3{
@@ -332,7 +338,7 @@ aside .AsidePropaganda .AsidePropagandaImg{
     outline: none;
 }
 .registerEmail{
-    margin-top: 10%;
+    margin-top: 12%;
     margin-left: 25px;
 }
 .registerEmail h3{
@@ -347,7 +353,7 @@ aside .AsidePropaganda .AsidePropagandaImg{
     outline: none;
 }
 .registerPassword{
-    margin-top: 10%;
+    margin-top: 12%;
     margin-left: 25px;
 }
 .registerPassword h3{
@@ -362,7 +368,7 @@ aside .AsidePropaganda .AsidePropagandaImg{
     outline: none;
 }
 .registerButton{
-    margin-top: 30px;
+    margin-top: 15%;
     margin-left: 100px;
 }
 .registerButton input{
@@ -380,7 +386,10 @@ aside .AsidePropaganda .AsidePropagandaImg{
     min-height: 350px;
     color: white;
     margin: auto;
-    margin-top: 15%;
+    margin-top: 10%;
+    border-radius: 10px;
+    border: 1px solid white;
+    box-shadow: 0 1px 10px white;
 }
 .forgotPassword img{
     height: 33px;

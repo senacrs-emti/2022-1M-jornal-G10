@@ -7,7 +7,7 @@
     <title>Sign-In</title>
     <link rel="stylesheet" href="./assets/css/style.css">
 </head>
-<body style="background-color: #1A2875;">
+<body style="background-image: linear-gradient(to right, #1A2875, black);">
     <main>
         <form action="#">
         <div class="login">
