@@ -8,8 +8,8 @@ footer{
     height: 28vh;
     background-color: #1A2875;
     display: flex;
-    position: absolute;
-    top: 260vh;
+    position: relative;
+    top: 100vh;
 }
 .leftsidefooter{
     width: 50%;
@@ -18,7 +18,7 @@ footer{
 footer .logo{
     height: 7.5vh;
     position: relative;
-    top: 6vh;
+    top: 4.5vh;
     left: 8vw;
 }
 .footerlinha{
@@ -26,7 +26,7 @@ footer .logo{
     width: 19.5vw;
     height: 0.35vh;
     position: relative;
-    top: 7vh;
+    top: 5.5vh;
     left: 8.80vw;
 }
 .sloganfooter{
@@ -36,8 +36,8 @@ footer .logo{
     height: 20px;
     text-align: center;
     position: relative;
-    top: 8vh;
-    left: 9.5vw;
+    top: 6.5vh;
+    left: 10vw;
 }
 .rightsidefooter{
     width: 50%;
