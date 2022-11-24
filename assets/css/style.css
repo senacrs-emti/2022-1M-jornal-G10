@@ -18,7 +18,7 @@ footer{
 footer .logo{
     height: 7.5vh;
     position: relative;
-    top: 4.5vh;
+    top: 5.5vh;
     left: 8vw;
 }
 .footerlinha{
@@ -26,7 +26,7 @@ footer .logo{
     width: 19.5vw;
     height: 0.35vh;
     position: relative;
-    top: 5.5vh;
+    top: 8vh;
     left: 8.80vw;
 }
 .sloganfooter{
@@ -36,7 +36,7 @@ footer .logo{
     height: 20px;
     text-align: center;
     position: relative;
-    top: 6.5vh;
+    top: 8vh;
     left: 10vw;
 }
 .rightsidefooter{
