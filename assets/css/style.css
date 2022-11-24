@@ -9,7 +9,6 @@ footer{
     background-color: #1A2875;
     display: flex;
     position: relative;
-    top: 100vh;
 }
 .leftsidefooter{
     width: 50%;
@@ -18,7 +17,7 @@ footer{
 footer .logo{
     height: 7.5vh;
     position: relative;
-    top: 5.5vh;
+    top: 6.5vh;
     left: 8vw;
 }
 .footerlinha{
@@ -36,7 +35,7 @@ footer .logo{
     height: 20px;
     text-align: center;
     position: relative;
-    top: 8vh;
+    top: 10vh;
     left: 10vw;
 }
 .rightsidefooter{
