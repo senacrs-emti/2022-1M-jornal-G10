@@ -1,4 +1,4 @@
-
+<body>
 <?php 
 include_once './include/_header.php';
 ?>
@@ -21,3 +21,5 @@ include_once './include/_header.php';
 <?php 
 include_once './include/_footer.php';
 ?>
+
+</body>
