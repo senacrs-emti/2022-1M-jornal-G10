@@ -33,6 +33,7 @@ aside{
 }
 main .AsideMainCorpo{
     width: 100vw;
+    height: 300vh;
     display: flex;
     justify-content: row;
 }
