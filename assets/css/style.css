@@ -430,11 +430,11 @@ footer .logospace{
 .Logofooter{
     height: auto;
     display: block;
-    width: 50%;
+    width: 40%;
 }
 footer .textfooter{
     color: rgb(255, 255, 255);
-    font-size: 1.4em;
+    font-size: 1em;
     text-align: left;
     position: relative;
     top: 8vh;
@@ -461,28 +461,28 @@ footer .textfooter a:hover{
     left: 10vw;
 }
 footer .email{
-    height: 5vh;
-    width: 5vw;
+    height: 3.5vh;
+    width: 3.5vw;
     position: relative;
     top: 10vh;
 }
 footer .insta{
-    height: 5vh;
-    width: 5vw;
+    height: 4vh;
+    width: 3.5vw;
     margin-left: 2vw;
     position: relative;
     top: 10vh;
 }
 footer .tt{
-    height: 5vh;
-    width: 5vw;
+    height: 4vh;
+    width: 3.5vw;
     margin-left: 2vw;
     position: relative;
     top: 10vh;
 }
 footer .face{
-    height: 5vh;
-    width: 5vw;
+    height: 4vh;
+    width: 3.5vw;
     margin-left: 2vw;
     position: relative;
     top: 10vh;
@@ -499,8 +499,8 @@ footer div .endere{
     width: 9vw;
     color: rgb(115, 115, 115);
     position: relative;
-    font-size: 1.1em;
-    left: 29vw;
+    font-size: 1em;
+    left: 27.5vw;
     top: -6vh;
     line-height: 1.6em;
 }
