@@ -9,8 +9,7 @@ include_once './include/_header.php';
 
 
 <main>
-        <img class="sim" src="img/sim.jpg" alt="aaaa">
-        <div class="NoticiaTopo">
+    <div class="NoticiaTopo">
         <div class="carroussel">
             <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
                 <ol class="carousel-indicators">
@@ -48,25 +47,27 @@ include_once './include/_header.php';
     <div class="AsideMainCorpo">
         <div class="ArtigoNoticia">
             <span class="IndexArtigoDivBar"></span>
-            <div class="IndexArtigoNoticaTextBlocks">
-                <div class="IndexArtigoNoticaTextBlocksImg"></div>
-                <div class="IndexArtigoNoticaTextBlocksTexts">
-                    <h1></h1>
+            <div class="IndexArtigoNoticaTextBlock1">
+                <div class="IndexArtigoNoticaTextBlock1Img"></div>
+                <div class="IndexArtigoNoticaTextBlock1Texts">
+                    <h1>Titulo</h1>
                     <p></p>
                 </div>
             </div>
-            <div class="IndexArtigoNoticaTextBlocks"></div>
-            <div class="IndexArtigoNoticaTextBlocks"></div>
+            <span class="IndexArtigoDivBar"></span>
+            <div class="IndexArtigoNoticaTextBlock1"></div>
+            <span class="IndexArtigoDivBar"></span>
+            <div class="IndexArtigoNoticaTextBlock1"></div>
         </div>
         <div class="Aside">
             <?php
             include_once './include/_aside.php';
             ?>
         </div>
-            <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-            <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-            <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
- 
-<?php 
-include_once './include/_footer.php';
-?>
+    </div>
+    <div class="IndexFooter">
+    <?php 
+    include_once './include/_footer.php';
+    ?>
+    </div>
+</main>

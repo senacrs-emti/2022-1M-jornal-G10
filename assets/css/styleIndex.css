@@ -1,6 +1,7 @@
 main{
     width: 100vw;
 }
+
 main .NoticiaTopo{
     width: 100vw;
     display: flex;
@@ -27,12 +28,9 @@ main .NoticiaTopo .IndexNoticiaTopoBlocks .IndexBlock1{
     width: 28vw;
 }
 
-aside{
-    width: 30vw;
-    height: 100vh;
-}
 main .AsideMainCorpo{
     width: 100vw;
+    height: 300vh;
     display: flex;
     justify-content: row;
 }
@@ -40,6 +38,7 @@ main .AsideMainCorpo .ArtigoNoticia{
     display: flex;
     flex-direction: column;
     width: 70vw;
+    align-items: center;
 }
 main .AsideMainCorpo .ArtigoNoticia .IndexArtigoDivBar{
     display: block;
@@ -49,8 +48,16 @@ main .AsideMainCorpo .ArtigoNoticia .IndexArtigoDivBar{
     height: 0.1vh;
     width: 60vw;
 }
-main .AsideMainCorpo .ArtigoNoticia .IndexArtigoNoticaTextBlocks{
+main .AsideMainCorpo .ArtigoNoticia .IndexArtigoNoticaTextBlock1{
+    margin-top: 3vh;
+    margin-bottom: 3vh;
+    height: 38vh;
+    width: 62vw;
+    display: flex;
+    flex-direction: row;
+}
+main .AsideMainCorpo .ArtigoNoticia .IndexArtigoNoticaTextBlock1Img{
     background-color: black;
-    height: 10vh;
-    width: 10vw;
+    width: 19vw;
+    height: 36vh; 
 }
