@@ -3,7 +3,10 @@
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
 }
-
+main{
+    height: 150vh;
+    width: 100%;
+}
 header{
     display: flex;
     flex-direction: column;
@@ -313,10 +316,12 @@ header nav a{
     float: left;
 }
 footer{
+    position: absolute;
     width: 100%;
+    max-width: 1920px;
+    min-width: 1300px;
     height: 50vh;
-    position: relative;
-    bottom: -80vh;
+    min-height: 229.95px;
     background-color: #1A2875;
 }
  footer .leftsidefooter{
@@ -403,14 +408,15 @@ footer .face{
     position: relative;
     top: 8vh;
     left: 10vw;
+    width: 5vw;
 }
 footer div .endere{
     width: 9vw;
     color: rgb(115, 115, 115);
-    position: relative;
+    position: absolute;
     font-size: 1em;
-    left: 27.5vw;
-    top: -6vh;
+    left: 76vw;
+    top: 12vh;
     line-height: 1.6em;
 }
 footer div .adress{
@@ -421,3 +427,49 @@ footer div .adress{
     font-size: 1.5em;
     font-weight: 600;
 }
+.news-group1{
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+    flex: row;
+}
+.news-group1 img{
+    width: 500px;
+    height: 200px;
+}
+main .box1noticia{
+    margin-top: 2vh;
+    font-size: 0.7em;
+    background-color: rgb(0, 0, 0);
+    height: 20vh;
+    width: 70vw;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3vw;
+}
+
+main .titulonoticia{
+    text-align: center;
+    margin-top: 5vw;
+}
+
+main .divbarnotice{
+    display: block;
+    margin-top: 5vh;
+    background-color: rgba(0, 0, 0, 0.795);
+    height: 0.05em;
+    width: 60%;
+    margin-left: 20vw;
+    margin-top: 10vh;
+}
+main .box2noticia{
+    margin-top: 2vh;
+    font-size: 0.7em;
+    background-color: rgb(0, 0, 0);
+    height: 60vh;
+    width: 70vw;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3vw;
+}
+
