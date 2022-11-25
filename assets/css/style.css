@@ -431,12 +431,22 @@ footer div .adress{
     margin-top: 5%;
     display: flex;
     justify-content: center;
-    flex: row;
+    flex-direction: row;
 }
 .news-group1 img{
     width: 500px;
     height: 200px;
 }
+.news-group2{
+    display: flex;
+    justify-content: center;
+}
+.news-group2 img{
+    margin-top: 2%;
+    width: 1000px;
+    height: 300px;
+}
+
 main .box1noticia{
     margin-top: 2vh;
     font-size: 0.7em;
