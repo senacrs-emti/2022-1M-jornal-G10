@@ -1,6 +1,7 @@
 main{
     width: 100vw;
 }
+
 main .NoticiaTopo{
     width: 100vw;
     display: flex;
@@ -27,10 +28,6 @@ main .NoticiaTopo .IndexNoticiaTopoBlocks .IndexBlock1{
     width: 28vw;
 }
 
-aside{
-    width: 30vw;
-    height: 100vh;
-}
 main .AsideMainCorpo{
     width: 100vw;
     height: 300vh;
