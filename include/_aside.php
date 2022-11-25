@@ -88,6 +88,5 @@
                 <img src="" alt="">
             </span>
         </div>
-        <span class="divbaraside2"></span>
     </div>
 </aside>
