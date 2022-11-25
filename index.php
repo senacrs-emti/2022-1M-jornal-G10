@@ -49,15 +49,17 @@ include_once './include/_header.php';
     <div class="AsideMainCorpo">
         <div class="ArtigoNoticia">
             <span class="IndexArtigoDivBar"></span>
-            <div class="IndexArtigoNoticaTextBlocks">
-                <div class="IndexArtigoNoticaTextBlocksImg"></div>
-                <div class="IndexArtigoNoticaTextBlocksTexts">
-                    <h1></h1>
+            <div class="IndexArtigoNoticaTextBlock1">
+                <div class="IndexArtigoNoticaTextBlock1Img"></div>
+                <div class="IndexArtigoNoticaTextBlock1Texts">
+                    <h1>Titulo</h1>
                     <p></p>
                 </div>
             </div>
-            <div class="IndexArtigoNoticaTextBlocks"></div>
-            <div class="IndexArtigoNoticaTextBlocks"></div>
+            <span class="IndexArtigoDivBar"></span>
+            <div class="IndexArtigoNoticaTextBlock1"></div>
+            <span class="IndexArtigoDivBar"></span>
+            <div class="IndexArtigoNoticaTextBlock1"></div>
         </div>
         <div class="Aside">
             <?php
