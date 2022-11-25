@@ -512,3 +512,38 @@ footer div .adress{
     font-size: 1.5em;
     font-weight: 600;
 }
+main .box1noticia{
+    margin-top: 2vh;
+    font-size: 0.7em;
+    background-color: rgb(0, 0, 0);
+    height: 20vh;
+    width: 70vw;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3vw;
+}
+
+main .titulonoticia{
+    text-align: center;
+    margin-top: 5vw;
+}
+
+main .divbarnotice{
+    display: block;
+    margin-top: 5vh;
+    background-color: rgba(0, 0, 0, 0.795);
+    height: 0.05em;
+    width: 60%;
+    margin-left: 20vw;
+    margin-top: 10vh;
+}
+main .box2noticia{
+    margin-top: 2vh;
+    font-size: 0.7em;
+    background-color: rgb(0, 0, 0);
+    height: 60vh;
+    width: 70vw;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3vw;
+}
