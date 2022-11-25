@@ -512,3 +512,14 @@ footer div .adress{
     font-size: 1.5em;
     font-weight: 600;
 }
+.news-group1{
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+    flex: row;
+}
+.news-group1 img{
+    width: 500px;
+    height: 200px;
+}
+
