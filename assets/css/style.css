@@ -3,76 +3,7 @@
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
 }
-footer{
-    width: 100%;
-    height: 28vh;
-    background-color: #1A2875;
-    display: flex;
-    position: relative;
-}
-.leftsidefooter{
-    width: 50%;
-    height: 100%;
-}
-footer .logo{
-    height: 7.5vh;
-    position: relative;
-    top: 6.5vh;
-    left: 8vw;
-}
-.footerlinha{
-    background-color: white;
-    width: 19.5vw;
-    height: 0.35vh;
-    position: relative;
-    top: 8vh;
-    left: 8.80vw;
-}
-.sloganfooter{
-    color: white;
-    font-size: clamp(18px, 10%, 18px);
-    width: 235px;
-    height: 20px;
-    text-align: center;
-    position: relative;
-    top: 10vh;
-    left: 10vw;
-}
-.rightsidefooter{
-    width: 50%;
-    height: 100%;
-}
-footer .face{
-    width: 3.5vw;
-    position: relative;
-    top: 7.5vh;
-    left: 1vw;
-}
-footer .tt{
-    width: 3.5vw;
-    position: relative;
-    top: 7.5vh;
-    left: 7.5vw;
-}
-footer .em2{
-    width: 3.5vw;
-    position: relative;
-    top: 7.5vh;
-    right: 1.7vw;
-}
-footer .ins{
-    width: 3.5vw;
-    position: relative;
-    top: 7.5vh;
-    left: 4.5vw;
-}
-footer .ctts{
-    height: 130px;
-    width: 300px;
-    position: relative;
-    left: 25vw;
-    top: 2vw;
-}
+
 header{
     display: flex;
     flex-direction: column;
@@ -143,7 +74,10 @@ header nav a{
     border-right: solid 1px white;
     height: 3vh;
 }
-
+.main{
+    height: 100vh;
+    width: 100vw;
+}
 .corpo{
     display: flex;
     justify-content: row;
@@ -468,4 +402,113 @@ aside .AsidePropaganda .AsidePropagandaImg{
     height: 22.5vh;
     width: 45vh;
     float: left;
+}
+footer{
+    width: 100%;
+    height: 50vh;
+    position: relative;
+    bottom: -80vh;
+    background-color: #1A2875;
+}
+ footer .leftsidefooter{
+    height: 100%;
+    width: 50%;
+    float: left;
+}
+footer .rightsidefooter{
+    height: 100%;
+    width: 50%;
+    float: right;
+}
+footer .logospace{
+    height: 45vh;
+    width: 70vh;
+    position: relative;
+    top: 4vh;
+    left: 4vw;
+}
+.Logofooter{
+    height: auto;
+    display: block;
+    width: 50%;
+}
+footer .textfooter{
+    color: rgb(255, 255, 255);
+    font-size: 1.4em;
+    text-align: left;
+    position: relative;
+    top: 8vh;
+    list-style-type: none;
+}
+footer .textfooter a{
+    text-decoration: none;
+    color: rgb(115, 115, 115);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1em;
+    position: relative;
+    top: 5vh;
+    height: 2vh;
+    left: 10vw;
+}
+footer .textfooter a:hover{
+    text-decoration: underline;
+    color: rgb(144, 19, 169);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.3em;
+    position: relative;
+    top: 5vh;
+    height: 2vh;
+    left: 10vw;
+}
+footer .email{
+    height: 5vh;
+    width: 5vw;
+    position: relative;
+    top: 10vh;
+}
+footer .insta{
+    height: 5vh;
+    width: 5vw;
+    margin-left: 2vw;
+    position: relative;
+    top: 10vh;
+}
+footer .tt{
+    height: 5vh;
+    width: 5vw;
+    margin-left: 2vw;
+    position: relative;
+    top: 10vh;
+}
+footer .face{
+    height: 5vh;
+    width: 5vw;
+    margin-left: 2vw;
+    position: relative;
+    top: 10vh;
+}
+ footer div .titulofooter{
+    color: white;
+    font-size: 1.5em;
+    font-weight: 600;
+    position: relative;
+    top: 8vh;
+    left: 10vw;
+}
+footer div .endere{
+    width: 9vw;
+    color: rgb(115, 115, 115);
+    position: relative;
+    font-size: 1.1em;
+    left: 29vw;
+    top: -6vh;
+    line-height: 1.6em;
+}
+footer div .adress{
+    position: absolute;
+    top: 8vh;
+    right: 16vw;
+    color: white;
+    font-size: 1.5em;
+    font-weight: 600;
 }

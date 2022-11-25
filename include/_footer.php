@@ -1,16 +1,26 @@
-<footer>
-    <section class="leftsidefooter">
-        <img src="./img/LogoNewColor.png" alt="Logo" class="logo">
-        <hr class="footerlinha"></hr>
-        <p class="sloganfooter">The world doesn't turn off, so stay turned!</p>
-    </section>
-    <section class="rightsidefooter">
-        <div class="ctts">
-            <a href="https://pt-br.facebook.com/login/device-based/regular/login/" target="_blank"><img src="img/facebook.png" alt="face" class="face"></a>
-            <a href="https://twitter.com/i/flow/login" target="_blank"><img src="img/twitter.png" alt="tt" class="tt"></a>
-            <a href="https://accounts.google.com/v3/signin/identifier?dsh=S-687390519%3A1668165131046600&hl=pt&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=ARgdvAslPrTvxHufaSvEOLSGU0itV6PkYtY8w5ngMp76fWY4DlN0GouD64CBp_t2Lsrs_ijDz_B9" target="_blank"><img src="img/email2.png" alt="em2" class="em2"></a>
-            <a href="https://www.instagram.com/accounts/login/" target="_blank"><img src="img/instagram.png" alt="ins" class="ins"></a>
-        </div>
-    </section>
-</footer>
+        <footer>
+            <div class="leftsidefooter">
+                <div class="logospace">
+                    <img src="./img/Logo.png" alt="logofooter" class="Logofooter">
+                    <p class="textfooter">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reiciendis autem unde sapiente consequatur eum sunt voluptatum neque tenetur odit. Magni mollitia voluptate, itaque nihil eligendi tempore tenetur optio. Architecto, quibusdam! Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                    <a href="mailto:ebdalmoro@gmail.com" class="email"><img src="./img/email2.png" alt="email"  height = "45vh" width = "50vw"></a>
+                    <a href="" class="face"><img src="./img/facebook.png" alt="face" height = "45vh" width = "50vw"></a>
+                    <a href="" class="insta"><img src="./img/instagram.png" alt="insta" height = "45vh" width = "50vw"></a>
+                    <a href="" class="tt"><img src="./img/twitter.png" alt="tt" height = "45vh" width = "50vw"></a>
+                </div>
+            </div>
+            <div class="rightsidefooter">
+                <h4 class="titulofooter">Products:</h4>
+                <ul class="products">
+                    <li class="textfooter"><a href="#">Assinatura</a></li>
+                    <li class="textfooter"><a href="#">Cursos</a></li>
+                    <li class="textfooter"><a href="#">Jornal impresso</a></li>
+                    <li class="textfooter"><a href="#">Jogos</a></li>
+                    <li class="textfooter"><a href="#">Eletronicos</a></li>
+                </ul>
+                <h4 class="adress">Adress:</h4>
+                <p class="endere">Avenida Cristóvão Colombo 545, prédio 1 3º andar - Floresta, Porto Alegre - RS, 90560-900</p>
+            </div>
+        </footer>
+    </body>
 </html>
