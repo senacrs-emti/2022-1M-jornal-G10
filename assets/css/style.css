@@ -462,3 +462,21 @@ main .box2noticia{
     margin-right: auto;
     margin-top: 3vw;
 }
+figcaption{
+    margin-left: 15vw;
+}
+main .pnoticia1{
+    margin-top: 5vh;
+    margin-left: 30vh;
+    width: 72%;
+}
+main .pnoticia2{
+    width: 72%;
+    height: 100px;
+    margin-left: 30vh;
+    
+} 
+main .texto{
+    width: 100%;
+    height: 30%;    
+}
