@@ -1,4 +1,56 @@
-.sim{
-    width: 90vw;
-    height: 40vh;
+main{
+    width: 100vw;
+}
+main .NoticiaTopo{
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+main .NoticiaTopo .carroussel{
+    margin-top: 3vh;
+    width: 80vw;
+    height: 60vh;
+}
+main .NoticiaTopo .IndexNoticiaTopoBlocks{
+    width: 100vw;
+    height: 38vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+main .NoticiaTopo .IndexNoticiaTopoBlocks .IndexBlock1{
+    display: block;
+    background-color: black;
+    height: 28vh;
+    width: 28vw;
+}
+
+aside{
+    width: 30vw;
+    height: 100vh;
+}
+main .AsideMainCorpo{
+    width: 100vw;
+    display: flex;
+    justify-content: row;
+}
+main .AsideMainCorpo .ArtigoNoticia{
+    display: flex;
+    flex-direction: column;
+    width: 70vw;
+}
+main .AsideMainCorpo .ArtigoNoticia .IndexArtigoDivBar{
+    display: block;
+    align-self: center;
+    margin-top: 1vh;
+    background-color: black;
+    height: 0.1vh;
+    width: 60vw;
+}
+main .AsideMainCorpo .ArtigoNoticia .IndexArtigoNoticaTextBlocks{
+    background-color: black;
+    height: 10vh;
+    width: 10vw;
 }

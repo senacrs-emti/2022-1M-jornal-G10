@@ -1,20 +1,15 @@
-<body>
+
     <?php 
         include_once './include/_header.php';
     ?>
     <main>
-        <div class="NoticiaTopo">
-            <h1>Título da Notícia</h1>
-        </div>
-        <div class="corpo">
-            <div class="ArtigoNoticia">
-            </div>
-            <?php
-                include_once './include/_aside.php';
-            ?>
-        </div>
+        <div class="box1noticia"></div>
+        <h1 class="titulonoticia">Titulo da noticia</h1>
+        <div class="divbarnotice"></div>
+        <div class="box2noticia"></div>
+
     </main>
     <?php 
         include_once './include/_footer.php';
     ?>
-</body>
+
