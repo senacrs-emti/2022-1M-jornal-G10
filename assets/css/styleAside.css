@@ -22,7 +22,7 @@ aside .MaisLidos{
     width: 85%;
 }
 aside .MaisLidos h1{
-    font-size: clamp(1vh,2em,3vw);
+    font-size: clamp(1vh,2em,2vw);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin-bottom: 2vh;
 }
@@ -35,18 +35,18 @@ aside .MaisLidos .ArtigosMaisLidos{
 }
 aside .MaisLidos .ArtigosMaisLidos .box1MaisLidos h3{
     font-weight:bold;
-    font-size:clamp(0.6vh,1.7em,3vw) ;
+    font-size:clamp(0.6vh,1.7em,2vw) ;
 }
 aside .MaisLidos .ArtigosMaisLidos .box1MaisLidos p{
     margin-top: 2vh;
-    font-size: clamp(0.3vh,0.7em,2vw);
+    font-size: clamp(0.3vh,0.7em,1.3vw);
     color: rgba(0, 0, 0, 0.541);
 }
 aside .MaisLidos .ArtigosMaisLidos .box2MaisLidos{
     background-color: black;
     border-radius: 10px;
-    height: 15vh;
-    width: 10vw;
+    height: 20vh;
+    width: 15vw;
 }
 aside .AsidePropaganda{
     width: 85%;
@@ -57,5 +57,5 @@ aside .AsidePropaganda .AsidePropagandaImg{
     width: 100%;
     margin-top: 3vh;
     margin-bottom: 3vh;
-    border-radius: 10px;
+    border-radius: 5px;
 }

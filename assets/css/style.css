@@ -52,6 +52,9 @@ header .headersearch:focus{
     outline: 0ch;
 }
 header .headersearch::placeholder{
+    font-size: clamp(0.6vh,1em,2vw);
+    align-self: center;
+    justify-self: center;
     color: white;
 }
 header div .Account{
@@ -74,6 +77,7 @@ header nav{
 header nav a{
     color: white;
     text-decoration: none;
+    font-size: clamp(0.6vh,1em,2vw);
 }
 .navseparationbar{
     display: block;
