@@ -1,7 +1,6 @@
 *{
     margin: 0;
     padding: 0;
-    color: white;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 footer{
@@ -41,10 +40,12 @@ footer{
     position: absolute;
     left: 50vw;
     top: 5vh;
+    color: white;
 }
 footer h4{
     font-weight: 600;
     font-size: clamp(1rem, 2vw, 2rem);
+    color: white;
 }
 footer ul{
     position: absolute;
