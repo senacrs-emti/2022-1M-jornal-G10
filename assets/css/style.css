@@ -25,7 +25,7 @@ header div{
 header div .HomeLogo{
     display: flex;
     height: 10vh;
-    width: 27vw;
+    width: 20vw;
     margin-left: 3vw;
     background: url(../../img/LogoNewColor.png);
     background-size: 100%;
@@ -35,7 +35,7 @@ header div .HomeLogo{
 header .headersearch{
     height: 7vh;
     width: 18vw;
-    margin-left: 45vw;
+    margin-left: 50vw;
     border-radius: 5px;
     border: none;
     padding-left: 2vw;
@@ -329,8 +329,8 @@ header nav a{
     flex-direction: row;
 }
 .news-group1 img{
-    width: 500px;
-    height: 200px;
+    width: 600px;
+    height: 300px;
 }
 .news-group2{
     display: flex;
@@ -338,10 +338,40 @@ header nav a{
 }
 .news-group2 img{
     margin-top: 2%;
-    width: 1000px;
-    height: 300px;
+    width: 1200px;
+    height: 400px;
 }
-
+.news-group3, .news-group4, .news-group5{
+    display: flex;
+    flex-direction: row;
+    margin-top: 5%;
+    margin-left: 5%;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+.news-group3 .group3-img, .news-group4 .group4-img, .news-group5 .group5-img{
+    margin: 2%;
+    border-radius: 10px;
+    max-width: 100%;
+    width: 600px;
+    min-height: 250px;
+    background-color: black;
+}
+.news-group3 span h2, .news-group3 span h3, .news-group4 span h2, .news-group4 span h3, .news-group5 span h2, .news-group5 span h3{ 
+    width: 80%;
+    margin-left: 5%;
+}
+.news-group3 span h2, .news-group4 span h2, .news-group5 span h2{
+    margin-top: 3%;
+    font-size: clamp(1.5vh,3em,3vw);
+}
+.news-group3 span h3, .news-group4 span h3, .news-group5 span h3{
+    font-size: 20px;
+    font-size: clamp(1vh,1.2em,1.6vw);
+}
+.news-group5{
+    margin-bottom: 5%;
+}
 .box1noticia{
     margin-top: 2vh;
     font-size: 0.7em;

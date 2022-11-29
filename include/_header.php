@@ -22,15 +22,15 @@
         <nav>
             <a href="esportes.php">Esportes</a>
             <span class="navseparationbar"></span>
-            <a href="">Novidades</a>
+            <a href="novidades.php">Novidades</a>
             <span class="navseparationbar"></span>
-            <a href="">Entretenimento</a>
+            <a href="entretenimento.php">Entretenimento</a>
             <span class="navseparationbar"></span>
-            <a href="">Aplicativos</a>
+            <a href="aplicativos.php">Aplicativos</a>
             <span class="navseparationbar"></span>
-            <a href="">Medicina</a>
+            <a href="medicina.php">Medicina</a>
             <span class="navseparationbar"></span>
-            <a href="">Espaço</a>
+            <a href="espaço.php">Espaço</a>
         </nav>
     </header>
 
