@@ -14,8 +14,38 @@
 }
 .AbasCorpo .AbasNovidades{
     display: flex;
+    flex-direction: column;
     width: 70vw;
 }
 .AbasCorpo .AbasNovidades h1{
     margin-left: 5vw;
+}
+.AbasCorpo .AbasDivBarNovidades{
+    align-self: center;
+    background-color: black;
+    width: 86%;
+    height: 0.1vh;
+}
+.AbasCorpo .AbasNovidades .AbasNovidadesArtigos1{
+    margin-left: 5vw;
+    margin-top: 3vh;
+    margin-bottom: 2vh;
+    display: flex;
+    flex-direction: row;
+}
+.AbasCorpo .AbasNovidades .AbasNovidadesArtigos1 img{
+    background-color: black;
+    height: 30vh;
+    width: 18vw;
+}
+.AbasCorpo .AbasNovidades .AbasNovidadesArtigos1 p{
+    width: 35vw;
+    margin-left: 5vw;
+    text-align: justify;
+    text-indent: 2vw;
+}
+.AbasCorpo .AbasNovidades .AbasNovidadesArtigos1 .AbasNovidadesArtigos1TextBoxSubTitle{
+    font-size: 0.8em;
+    text-indent: 0vw;
+    color: rgba(36, 35, 35, 0.788);
 }
