@@ -39,9 +39,9 @@ include_once './include/_header.php';
             </div>
         </div>
         <div class="IndexNoticiaTopoBlocks">
-            <div class="IndexBlock1"></div>
-            <div class="IndexBlock1"></div>
-            <div class="IndexBlock1"></div>
+            <a href="noticia.php" class="IndexBlock1"></a>
+            <a href="noticia.php" class="IndexBlock1"></a>
+            <a href="noticia.php" class="IndexBlock1"></a>
         </div>
     </div>
     <div class="AsideMainCorpo">

@@ -1,0 +1,21 @@
+.abasTest{
+    display: block;
+    height: 40vh;
+    width: 90vw;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    background-color: black;
+}
+
+.AbasCorpo{
+    display: flex;
+    flex-direction: row;
+
+}
+.AbasCorpo .AbasNovidades{
+    display: flex;
+    width: 70vw;
+}
+.AbasCorpo .AbasNovidades h1{
+    margin-left: 5vw;
+}
