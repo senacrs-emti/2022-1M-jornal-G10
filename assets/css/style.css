@@ -337,6 +337,9 @@ header nav a:hover{
     width: 600px;
     height: 300px;
 }
+.news-group1 img:hover{
+    zoom: 99%;
+}
 .news-group2{
     display: flex;
     justify-content: center;
@@ -345,6 +348,9 @@ header nav a:hover{
     margin-top: 2%;
     width: 1200px;
     height: 400px;
+}
+.news-group2 img:hover{
+    zoom: 99%;
 }
 .news-group3, .news-group4, .news-group5{
     display: flex;
@@ -367,8 +373,16 @@ header nav a:hover{
     margin-left: 5%;
 }
 .news-group3 span h2, .news-group4 span h2, .news-group5 span h2{
+    color: black;
     margin-top: 3%;
     font-size: clamp(1.5vh,3em,3vw);
+}
+.news-group3 span a, .news-group4 span a, .news-group5 span a{
+    color: black;
+    text-decoration: none;
+}
+.news-group3 span a:hover, .news-group4 span a:hover, .news-group5 span a:hover{
+    text-decoration: underline;
 }
 .news-group3 span h3, .news-group4 span h3, .news-group5 span h3{
     font-size: 20px;
@@ -376,6 +390,15 @@ header nav a:hover{
 }
 .news-group5{
     margin-bottom: 5%;
+}
+.news-group1 span p:first-of-type{
+    color: white;
+    font-size: clamp(0.5rem, 1.2vw, 1.35rem);
+    width: 500px;
+    height: 200px;
+    position: relative;
+    bottom: 55vh;
+    left: 35vh;
 }
 .box1noticia{
     margin-top: 2vh;
