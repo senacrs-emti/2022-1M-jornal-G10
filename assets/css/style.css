@@ -33,6 +33,7 @@ header div .HomeLogo{
     background-repeat: no-repeat;
 }
 header .headersearch{
+    color: white;
     height: 7vh;
     width: 18vw;
     margin-left: 50vw;
@@ -78,6 +79,10 @@ header nav a{
     color: white;
     text-decoration: none;
     font-size: clamp(0.6vh,1em,2vw);
+}
+header nav a:hover{
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.74);   
 }
 .navseparationbar{
     display: block;
