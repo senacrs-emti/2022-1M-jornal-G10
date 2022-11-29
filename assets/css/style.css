@@ -380,7 +380,7 @@ header nav a:hover{
 .box1noticia{
     margin-top: 2vh;
     font-size: 0.7em;
-    background-color: rgb(0, 0, 0);
+    background-color: black;
     height: 20vh;
     width: 70vw;
     margin-left: auto;
@@ -402,18 +402,15 @@ header nav a:hover{
     margin-left: auto;
     margin-right: auto;
 }
-.box2noticia{
-    margin-top: 2vh;
-    font-size: 0.7em;
-    background-color: rgb(0, 0, 0);
-    height: 60vh;
-    width: 70vw;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 3vw;
+.img_not{
+    height: 30%;
+    width: auto;
+    position: relative;
+    left: 20.5%;
 }
 figcaption{
-    margin-left: 15vw;
+    position: relative;
+    left: 20.5%;
     color: black;
 }
 .pnoticia1{

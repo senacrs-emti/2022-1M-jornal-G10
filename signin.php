@@ -13,8 +13,8 @@
         <div class="login">
             <img src="img/LogoNewColor.png" alt="">
             <div class="inputEmail">
-                <h4>Email</h4>
                 <input type="email" name="loginEmail" id="loginEmail" placeholder="Digite seu email">
+                <label for=""></label>
             </div>
             <div class="inputPassword">
                 <h4>Senha</h4>

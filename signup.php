@@ -14,15 +14,17 @@
             <img src="img/LogoNewColor.png" alt="">
             <div class="registerUser">
                 <h3>Usuario</h3>
-                <input type="text" name="registerUser" id="registerUser" placeholder="Digite seu nome">
+                <input type="text" name="registerUser" id="registerUser" placeholder="Digite seu nome" required>
+                <label for="name"></label>
             </div>
             <div class="registerEmail">
                 <h3>Email</h3>
-                <input type="email" name="registerEmail" id="registerEmail" placeholder="Digite seu email">
+                <input type="email" name="email" id="email" placeholder="Digite seu email" required>
+                <label for="email"></label>
             </div>
             <div class="registerPassword">
                 <h3>Senha</h3>
-                <input type="password" name="registerPassword" id="registerPassword" placeholder="Digite sua senha">
+                <input type="password" name="senha" id="senha" placeholder="Digite sua senha" required>
             </div>
             <div class="registerButton">
                 <input type="submit" value="Registrar-se">
