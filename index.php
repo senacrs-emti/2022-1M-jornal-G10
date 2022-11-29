@@ -50,8 +50,8 @@ include_once './include/_header.php';
             <div class="IndexArtigoNoticaTextBlock1">
                 <div class="IndexArtigoNoticaTextBlock1Img"></div>
                 <div class="IndexArtigoNoticaTextBlock1Texts">
-                    <h1>Titulo</h1>
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Omnis consequatur fuga mollitia quas amet, cupiditate molestias impedit? Sed obcaecati sapiente fugiat quaerat placeat ipsa iusto! Odit fuga incidunt adipisci commodi!</p>
+                    <h1>Metaverso, surge um novo universo dentro da internet.</h1>
+                    <p>O metaverso, o que ele é? Como ele funciona? Onde ele fica? E como ele impacta nas nossas vidas?</p>
                 </div>
             </div>
             <span class="IndexArtigoDivBar"></span>
