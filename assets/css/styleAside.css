@@ -31,7 +31,12 @@ aside .MaisLidos .ArtigosMaisLidos{
     flex-direction: row;
     margin-top: 3vh;
     margin-bottom: 3vh;
-    height:25vh ;
+    height:20vh ;
+    color: black;
+    text-decoration: none;
+}
+aside .MaisLidos .ArtigosMaisLidos:hover{
+    color: rgb(78, 74, 74);
 }
 aside .MaisLidos .ArtigosMaisLidos .box1MaisLidos{
     width: 55%;
@@ -46,9 +51,13 @@ aside .MaisLidos .ArtigosMaisLidos .box1MaisLidos p{
     color: rgba(0, 0, 0, 0.541);
 }
 aside .MaisLidos .ArtigosMaisLidos .box2MaisLidos{
-    border-radius: 10px;
     height: 20vh;
     width: 45%;
+}
+aside .MaisLidos .ArtigosMaisLidos .box2MaisLidos img{
+    border-radius: 10px;
+    height: 20vh;
+    width: 100%;
 }
 aside .AsidePropaganda{
     width: 85%;
