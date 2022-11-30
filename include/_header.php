@@ -21,17 +21,17 @@
             <a href="signin.php" class="Account"></a>
         </div>
         <nav>
-            <a href="esportes.php">Esportes</a>
+            <a href="abasEsportes.php">Esportes</a>
             <span class="navseparationbar"></span>
             <a href="abasNovidades.php">Novidades</a>
             <span class="navseparationbar"></span>
-            <a href="entretenimento.php">Entretenimento</a>
+            <a href="abasEntretenimento.php">Entretenimento</a>
             <span class="navseparationbar"></span>
-            <a href="aplicativos.php">Aplicativos</a>
+            <a href="abasAplicativos.php">Aplicativos</a>
             <span class="navseparationbar"></span>
-            <a href="medicina.php">Medicina</a>
+            <a href="abasAmbientes.php">Meio-Ambiente</a>
             <span class="navseparationbar"></span>
-            <a href="espaço.php">Espaço</a>
+            <a href="abasDiversos.php">Diversos</a>
         </nav>
     </header>
 
