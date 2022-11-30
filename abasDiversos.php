@@ -13,17 +13,17 @@ include_once './include/_header.php';
             <h1>Novidades:</h1>
             <span class="AbasDivBarNovidades"></span>
             <div class="AbasNovidadesArtigos">
-                <a href="noticiaPedro.php" class="AbasNovidadesArtigos1">
-                    <img src="./img/ShutterstockArtigoImg.png" alt="">
+                <div class="AbasNovidadesArtigos1">
+                    <img src="" alt="">
                     <span class="AbasNovidadesArtigos1TextBox">
-                        <h1>Vendas de imagens de IA </h1>
-                        <p>A Shutterstock em conjunto com Open AI anunciaram um projeto de lançar a criação e comercialização de imagens feitas por inteligencias artificiais.</p>
-                        <p class="AbasNovidadesArtigos1TextBoxSubTitle">Os artitas estão preocupados de como tudo ocorrerá. </p>                    
+                        <h1>Titulo</h1>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas nemo aspernatur temporibus consequatur nostrum cum facilis totam et culpa, exercitationem voluptatum voluptatem, blanditiis nisi impedit quas eveniet earum tempora maxime.</p>
+                        <p class="AbasNovidadesArtigos1TextBoxSubTitle">hbinonmobyrdfbuiojnm 7tvbniuoi g6rtuy i </p>                    
                     </span>
-                </a>
+                </div>
             </div>
             <span class="AbasDivBarNovidades"></span>
-            <a class="AbasNovidadesArtigos">
+            <div class="AbasNovidadesArtigos">
                 <div class="AbasNovidadesArtigos1">
                     <img src="" alt="">
                     <span class="AbasNovidadesArtigos1TextBox">
@@ -32,9 +32,9 @@ include_once './include/_header.php';
                         <p class="AbasNovidadesArtigos1TextBoxSubTitle">hbinonmobyrdfbuiojnm 7tvbniuoi g6rtuy i </p>                    
                     </span>
                 </div>
-            </a>
+            </div>
             <span class="AbasDivBarNovidades"></span>
-            <a class="AbasNovidadesArtigos">
+            <div class="AbasNovidadesArtigos">
                 <div class="AbasNovidadesArtigos1">
                     <img src="" alt="">
                     <span class="AbasNovidadesArtigos1TextBox">
@@ -43,9 +43,9 @@ include_once './include/_header.php';
                         <p class="AbasNovidadesArtigos1TextBoxSubTitle">hbinonmobyrdfbuiojnm 7tvbniuoi g6rtuy i </p>                    
                     </span>
                 </div>
-            </a>
+            </div>
             <span class="AbasDivBarNovidades"></span>
-            <a class="AbasNovidadesArtigos">
+            <div class="AbasNovidadesArtigos">
                 <div class="AbasNovidadesArtigos1">
                     <img src="" alt="">
                     <span class="AbasNovidadesArtigos1TextBox">
@@ -54,9 +54,9 @@ include_once './include/_header.php';
                         <p class="AbasNovidadesArtigos1TextBoxSubTitle">hbinonmobyrdfbuiojnm 7tvbniuoi g6rtuy i </p>                    
                     </span>
                 </div>
-            </a>
+            </div>
             <span class="AbasDivBarNovidades"></span>
-            <a class="AbasNovidadesArtigos">
+            <div class="AbasNovidadesArtigos">
                 <div class="AbasNovidadesArtigos1">
                     <img src="" alt="">
                     <span class="AbasNovidadesArtigos1TextBox">
@@ -65,9 +65,9 @@ include_once './include/_header.php';
                         <p class="AbasNovidadesArtigos1TextBoxSubTitle">hbinonmobyrdfbuiojnm 7tvbniuoi g6rtuy i </p>                    
                     </span>
                 </div>
-            </a>
+            </div>
             <span class="AbasDivBarNovidades"></span>
-            <a class="AbasNovidadesArtigos">
+            <div class="AbasNovidadesArtigos">
                 <div class="AbasNovidadesArtigos1">
                     <img src="" alt="">
                     <span class="AbasNovidadesArtigos1TextBox">
@@ -76,9 +76,9 @@ include_once './include/_header.php';
                         <p class="AbasNovidadesArtigos1TextBoxSubTitle">hbinonmobyrdfbuiojnm 7tvbniuoi g6rtuy i </p>                    
                     </span>
                 </div>
-            </a>
+            </div>
             <span class="AbasDivBarNovidades"></span>
-            <a class="AbasNovidadesArtigos">
+            <div class="AbasNovidadesArtigos">
                 <div class="AbasNovidadesArtigos1">
                     <img src="" alt="">
                     <span class="AbasNovidadesArtigos1TextBox">
@@ -87,7 +87,7 @@ include_once './include/_header.php';
                         <p class="AbasNovidadesArtigos1TextBoxSubTitle">hbinonmobyrdfbuiojnm 7tvbniuoi g6rtuy i </p>                    
                     </span>
                 </div>
-            </a>
+            </div>
             <span class="AbasDivBarNovidades"></span>
         </div>
         <div class="Aside">
