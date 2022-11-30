@@ -4,8 +4,8 @@
         <h1>Mais Lidos</h1>
         <div class="ArtigosMaisLidos">
             <span class="box1MaisLidos">
-                <h3>Lorem lore lor loren</h3>
-                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.ojnvwl  </p>
+                <h3>Vendas de imagens de IA</h3>
+                <p>A Shutterstock em conjunto com Open AI anunciaram um projeto de lançar a criação e comercialização de imagens feitas por inteligencias artificiais. </p>
             </span>
             <span class="box2MaisLidos">
                 <img src="" alt="">

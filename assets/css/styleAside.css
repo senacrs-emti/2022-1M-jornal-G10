@@ -33,6 +33,9 @@ aside .MaisLidos .ArtigosMaisLidos{
     margin-bottom: 3vh;
     height:25vh ;
 }
+aside .MaisLidos .ArtigosMaisLidos .box1MaisLidos{
+    width: 55%;
+}
 aside .MaisLidos .ArtigosMaisLidos .box1MaisLidos h3{
     font-weight:bold;
     font-size:clamp(0.6vh,1.7em,2vw) ;
@@ -46,7 +49,7 @@ aside .MaisLidos .ArtigosMaisLidos .box2MaisLidos{
     background-color: black;
     border-radius: 10px;
     height: 20vh;
-    width: 15vw;
+    width: 45%;
 }
 aside .AsidePropaganda{
     width: 85%;

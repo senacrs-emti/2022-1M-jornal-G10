@@ -61,7 +61,6 @@ main .AsideMainCorpo .ArtigoNoticia .IndexArtigoNoticaTextBlock1:hover{
     text-decoration: none;
 }
 main .AsideMainCorpo .ArtigoNoticia .IndexArtigoNoticaTextBlock1Img{
-    background-color: black;
     border-radius: 10px;
     width: 19vw;
     height: 36vh; 

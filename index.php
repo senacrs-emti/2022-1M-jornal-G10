@@ -48,7 +48,7 @@ include_once './include/_header.php';
         <div class="ArtigoNoticia">
             <span class="IndexArtigoDivBar"></span>
             <a href="noticia-enzo.php" class="IndexArtigoNoticaTextBlock1">
-                <div class="IndexArtigoNoticaTextBlock1Img"></div>
+                <img src="./img/metaverso.png" alt="" class="IndexArtigoNoticaTextBlock1Img">
                 <div class="IndexArtigoNoticaTextBlock1Texts">
                     <h1>Metaverso, surge um novo universo dentro da internet.</h1>
                     <p>O metaverso, o que ele é? Como ele funciona? Onde ele fica? E como ele impacta nas nossas vidas?</p>
@@ -63,8 +63,24 @@ include_once './include/_header.php';
                 </div>
             </a>
             <span class="IndexArtigoDivBar"></span>
+            <a href="ArtigoPedro.php" class="IndexArtigoNoticaTextBlock1">
+                <img src="./img/NarizEletronico.jpg" class="IndexArtigoNoticaTextBlock1Img">
+                <div class="IndexArtigoNoticaTextBlock1Texts">
+                    <h1>Nariz Eletrônico</h1>
+                    <p>O Nariz Eletrônico criando na década de 1980 é uma cópia do nariz humano, ele foi inspirado nos processos biológicos do reconhecimento de odores. Fora o obvio que é reconhecimento de cheiros, ele vem cada vez mais ganhando novas utilidades.</p>
+                </div>
+            </a>
+            <span class="IndexArtigoDivBar"></span>
+            <a href="CronicaPedro.php" class="IndexArtigoNoticaTextBlock1">
+                <img src="./img/Fedora-logo.svg.png" alt="" class="IndexArtigoNoticaTextBlock1Img">
+                <div class="IndexArtigoNoticaTextBlock1Texts">
+                    <h1>Problemas com Linux</h1>
+                    <p>Recentemente mudei de sistema operacional e com essa troca vieram varios novas tarefas que deveriam ser feitas para utilizar o meu computador.</p>
+                </div>
+            </a>
+            <span class="IndexArtigoDivBar"></span>
             <a class="IndexArtigoNoticaTextBlock1">
-                <div class="IndexArtigoNoticaTextBlock1Img"></div>
+                <img src="" alt="" class="IndexArtigoNoticaTextBlock1Img">
                 <div class="IndexArtigoNoticaTextBlock1Texts">
                     <h1>Titulo</h1>
                     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Omnis consequatur fuga mollitia quas amet, cupiditate molestias impedit? Sed obcaecati sapiente fugiat quaerat placeat ipsa iusto! Odit fuga incidunt adipisci commodi!</p>
@@ -72,23 +88,7 @@ include_once './include/_header.php';
             </a>
             <span class="IndexArtigoDivBar"></span>
             <a class="IndexArtigoNoticaTextBlock1">
-                <div class="IndexArtigoNoticaTextBlock1Img"></div>
-                <div class="IndexArtigoNoticaTextBlock1Texts">
-                    <h1>Titulo</h1>
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Omnis consequatur fuga mollitia quas amet, cupiditate molestias impedit? Sed obcaecati sapiente fugiat quaerat placeat ipsa iusto! Odit fuga incidunt adipisci commodi!</p>
-                </div>
-            </a>
-            <span class="IndexArtigoDivBar"></span>
-            <a class="IndexArtigoNoticaTextBlock1">
-                <div class="IndexArtigoNoticaTextBlock1Img"></div>
-                <div class="IndexArtigoNoticaTextBlock1Texts">
-                    <h1>Titulo</h1>
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Omnis consequatur fuga mollitia quas amet, cupiditate molestias impedit? Sed obcaecati sapiente fugiat quaerat placeat ipsa iusto! Odit fuga incidunt adipisci commodi!</p>
-                </div>
-            </a>
-            <span class="IndexArtigoDivBar"></span>
-            <a class="IndexArtigoNoticaTextBlock1">
-                <div class="IndexArtigoNoticaTextBlock1Img"></div>
+                <img src="" alt="" class="IndexArtigoNoticaTextBlock1Img">
                 <div class="IndexArtigoNoticaTextBlock1Texts">
                     <h1>Titulo</h1>
                     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Omnis consequatur fuga mollitia quas amet, cupiditate molestias impedit? Sed obcaecati sapiente fugiat quaerat placeat ipsa iusto! Odit fuga incidunt adipisci commodi!</p>
