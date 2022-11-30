@@ -16,9 +16,11 @@
     display: flex;
     flex-direction: column;
     width: 70vw;
+    font-size: clamp(1vh,1.2em,1.6vw);
 }
 .AbasCorpo .AbasNovidades h1{
     margin-left: 5vw;
+    font-size: clamp(1.5vh,3em,3vw);
 }
 .AbasCorpo .AbasDivBarNovidades{
     align-self: center;
