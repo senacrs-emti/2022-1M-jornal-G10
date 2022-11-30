@@ -47,13 +47,13 @@ include_once './include/_header.php';
     <div class="AsideMainCorpo">
         <div class="ArtigoNoticia">
             <span class="IndexArtigoDivBar"></span>
-            <div class="IndexArtigoNoticaTextBlock1">
+            <a href="noticia-enzo.php" class="IndexArtigoNoticaTextBlock1">
                 <div class="IndexArtigoNoticaTextBlock1Img"></div>
                 <div class="IndexArtigoNoticaTextBlock1Texts">
                     <h1>Metaverso, surge um novo universo dentro da internet.</h1>
                     <p>O metaverso, o que ele é? Como ele funciona? Onde ele fica? E como ele impacta nas nossas vidas?</p>
                 </div>
-            </div>
+            </a>
             <span class="IndexArtigoDivBar"></span>
             <div class="IndexArtigoNoticaTextBlock1">
                 <div class="IndexArtigoNoticaTextBlock1Img"></div>
