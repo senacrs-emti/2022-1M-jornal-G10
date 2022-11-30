@@ -431,6 +431,13 @@ header nav a:hover{
     position: relative;
     left: 20.5%;
 }
+.img-noticia{
+    position: relative;
+    left: 24%;
+    width: 100vh;
+    height: 60vh;
+}
+
 figcaption{
     position: relative;
     left: 20.5%;

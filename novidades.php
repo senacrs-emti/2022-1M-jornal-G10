@@ -19,8 +19,8 @@ include_once './include/_header.php';
             <div class="news-group3">
                 <div class="group3-img"></div>
                 <span>
-                    <a href=""><h2>Titulo</h2></a>
-                    <h3>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Omnis consequatur fuga mollitia quas amet, cupiditate molestias impedit? Sed obcaecati sapiente fugiat quaerat placeat ipsa iusto! Odit fuga incidunt adipisci commodi!</h3>
+                    <a href="noticia-rtx.php"><h2>NVIDIA Geforce RTX 4090 chegou! Saiba como foi seu modelo de lançamento.</h2></a>
+                    <h3>Explore o novo modelo inovador lançado pela NVIDIA</h3>
                 </span>
             </div>
                 <div class="news-group4">
