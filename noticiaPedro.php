@@ -4,11 +4,10 @@
     ?>
     <main>
         <div class="box1noticia"></div>
-            <h1 class="titulonoticia">Titulo da noticia</h1>
-            <center><img src="./img/ShutterstockArtigoImgBig.png" alt=""></center>
+            <h1 class="titulonoticia">Vendas de imagens de IA</h1>
+            <center><img src="./img/ShutterstockArtigoImgBig.png" class="AbasNovidadesNoticiaPedroImg" alt=""></center>
             <hr class="divbarnotice"></hr>
             <div class="box2noticia"></div>
-            <figcaption>📷(crédito: / )</figcaption>
         <div class="texto_not">
             <p class="pnoticia1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis nesciunt iusto accusantium est. Impedit ex autem quis! Nemo libero iure laborum iste nihil mollitia consequuntur, necessitatibus autem similique voluptas aliquam. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla quasi quia quos, doloribus at velit distinctio nobis delectus qui nam similique pariatur ab provident aliquam. Minima optio nam ipsum architecto.</p>
             <p class="pnoticia2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, fugit odio quae adipisci debitis ab, nulla ipsum temporibus perspiciatis facilis soluta exercitationem nostrum dolorem voluptatum, doloremque consectetur et consequatur inventore! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Adipisci, repellendus. Alias, at excepturi omnis ullam tempore reiciendis labore doloremque illo molestias. Dicta doloremque asperiores nostrum inventore quo aliquid vitae id!</p>

@@ -467,4 +467,16 @@ figcaption{
     margin-top: 10vh;
 }
 
+.box1noticia{
+    display: flex;
+    flex-direction: column;
+}
+.AbasNovidadesNoticiaPedroImg{
+    margin-top: 3vh;
+    font-display: flex;
+    width: 50vw;
+    height: 50vh;
+    align-self: center;
+}
+
 

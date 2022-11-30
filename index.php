@@ -55,45 +55,45 @@ include_once './include/_header.php';
                 </div>
             </a>
             <span class="IndexArtigoDivBar"></span>
-            <div class="IndexArtigoNoticaTextBlock1">
+            <a class="IndexArtigoNoticaTextBlock1">
                 <div class="IndexArtigoNoticaTextBlock1Img"></div>
                 <div class="IndexArtigoNoticaTextBlock1Texts">
                     <h1>Titulo</h1>
                     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Omnis consequatur fuga mollitia quas amet, cupiditate molestias impedit? Sed obcaecati sapiente fugiat quaerat placeat ipsa iusto! Odit fuga incidunt adipisci commodi!</p>
                 </div>
-            </div>
+            </a>
             <span class="IndexArtigoDivBar"></span>
-            <div class="IndexArtigoNoticaTextBlock1">
+            <a class="IndexArtigoNoticaTextBlock1">
                 <div class="IndexArtigoNoticaTextBlock1Img"></div>
                 <div class="IndexArtigoNoticaTextBlock1Texts">
                     <h1>Titulo</h1>
                     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Omnis consequatur fuga mollitia quas amet, cupiditate molestias impedit? Sed obcaecati sapiente fugiat quaerat placeat ipsa iusto! Odit fuga incidunt adipisci commodi!</p>
                 </div>
-            </div>
+            </a>
             <span class="IndexArtigoDivBar"></span>
-            <div class="IndexArtigoNoticaTextBlock1">
+            <a class="IndexArtigoNoticaTextBlock1">
                 <div class="IndexArtigoNoticaTextBlock1Img"></div>
                 <div class="IndexArtigoNoticaTextBlock1Texts">
                     <h1>Titulo</h1>
                     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Omnis consequatur fuga mollitia quas amet, cupiditate molestias impedit? Sed obcaecati sapiente fugiat quaerat placeat ipsa iusto! Odit fuga incidunt adipisci commodi!</p>
                 </div>
-            </div>
+            </a>
             <span class="IndexArtigoDivBar"></span>
-            <div class="IndexArtigoNoticaTextBlock1">
+            <a class="IndexArtigoNoticaTextBlock1">
                 <div class="IndexArtigoNoticaTextBlock1Img"></div>
                 <div class="IndexArtigoNoticaTextBlock1Texts">
                     <h1>Titulo</h1>
                     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Omnis consequatur fuga mollitia quas amet, cupiditate molestias impedit? Sed obcaecati sapiente fugiat quaerat placeat ipsa iusto! Odit fuga incidunt adipisci commodi!</p>
                 </div>
-            </div>
+            </a>
             <span class="IndexArtigoDivBar"></span>
-            <div class="IndexArtigoNoticaTextBlock1">
+            <a class="IndexArtigoNoticaTextBlock1">
                 <div class="IndexArtigoNoticaTextBlock1Img"></div>
                 <div class="IndexArtigoNoticaTextBlock1Texts">
                     <h1>Titulo</h1>
                     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Omnis consequatur fuga mollitia quas amet, cupiditate molestias impedit? Sed obcaecati sapiente fugiat quaerat placeat ipsa iusto! Odit fuga incidunt adipisci commodi!</p>
                 </div>
-            </div>
+            </a>
         </div>
         <div class="Aside">
             <?php
