@@ -18,7 +18,7 @@ include_once './include/_header.php';
                     <span class="AbasNovidadesArtigos1TextBox">
                         <h1>Vendas de imagens de IA </h1>
                         <p>A Shutterstock em conjunto com Open AI anunciaram um projeto de lançar a criação e comercialização de imagens feitas por inteligencias artificiais.</p>
-                        <p class="AbasNovidadesArtigos1TextBoxSubTitle">Os artitas estão preocupados de como tudo ocorrerá. </p>                    
+                        <p class="AbasNovidadesArtigos1TextBoxSubTitle">#Noticia / Autor: Pedro Santana </p>                    
                     </span>
                 </a>
             </div>

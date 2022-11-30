@@ -55,11 +55,11 @@ include_once './include/_header.php';
                 </div>
             </a>
             <span class="IndexArtigoDivBar"></span>
-            <a class="IndexArtigoNoticaTextBlock1">
-                <div class="IndexArtigoNoticaTextBlock1Img"></div>
+            <a href="noticiaPedro.php" class="IndexArtigoNoticaTextBlock1">
+                <img class="IndexArtigoNoticaTextBlock1Img" src="./img/ShutterstockArtigoImg.png" alt="">
                 <div class="IndexArtigoNoticaTextBlock1Texts">
-                    <h1>Titulo</h1>
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Omnis consequatur fuga mollitia quas amet, cupiditate molestias impedit? Sed obcaecati sapiente fugiat quaerat placeat ipsa iusto! Odit fuga incidunt adipisci commodi!</p>
+                    <h1>Vendas de imagens de IA</h1>
+                    <p>A Shutterstock em conjunto com Open AI anunciaram um projeto de lançar a criação e comercialização de imagens feitas por inteligencias artificiais.</p>
                 </div>
             </a>
             <span class="IndexArtigoDivBar"></span>

@@ -444,6 +444,7 @@ figcaption{
     color: black;
 }
 .pnoticia1{
+    text-indent: 2vw;
     margin-top: 5vh;
     margin-left: auto;
     margin-right: auto;
@@ -452,6 +453,7 @@ figcaption{
     font-size: clamp(0.5rem, 1.2vw, 1.35rem);
 }
 .pnoticia2{
+    text-indent: 2vw;
     width: 72%;
     height: 100px;
     margin-left: auto;
@@ -461,9 +463,7 @@ figcaption{
     font-size: clamp(0.5rem, 1.2vw, 1.35rem);
 } 
 .texto_not{
-    width: 100%;
-    height: 110vh;   
-    border: black 1px solid;
+    width: 100%; 
     margin-top: 10vh;
 }
 
@@ -475,7 +475,7 @@ figcaption{
     margin-top: 3vh;
     font-display: flex;
     width: 50vw;
-    height: 50vh;
+    height: 55vh;
     align-self: center;
 }
 
