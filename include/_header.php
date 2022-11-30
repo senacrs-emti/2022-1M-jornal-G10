@@ -23,7 +23,7 @@
         <nav>
             <a href="esportes.php">Esportes</a>
             <span class="navseparationbar"></span>
-            <a href="novidades.php">Novidades</a>
+            <a href="abasNovidades.php">Novidades</a>
             <span class="navseparationbar"></span>
             <a href="entretenimento.php">Entretenimento</a>
             <span class="navseparationbar"></span>

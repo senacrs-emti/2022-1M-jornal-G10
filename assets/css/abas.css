@@ -32,10 +32,16 @@
     margin-bottom: 2vh;
     display: flex;
     flex-direction: row;
+    height: 35vh;
+    color: black;
+}
+.AbasCorpo .AbasNovidades .AbasNovidadesArtigos1:hover{
+    text-decoration: none;
+    color: rgb(72, 70, 70);
 }
 .AbasCorpo .AbasNovidades .AbasNovidadesArtigos1 img{
     background-color: black;
-    height: 30vh;
+    height: 33vh;
     width: 18vw;
 }
 .AbasCorpo .AbasNovidades .AbasNovidadesArtigos1 p{
