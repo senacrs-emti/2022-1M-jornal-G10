@@ -7,7 +7,6 @@ include_once './include/_header.php';
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct" crossorigin="anonymous"></script>
 
-
 <main>
     <div class="NoticiaTopo">
         <div class="carroussel">
@@ -19,13 +18,13 @@ include_once './include/_header.php';
                 </ol>
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="..." class="d-block w-100" alt="...">
+                        <img src="./img/TecnologyFace.jpg" class="d-block w-100" alt="...">
                     </div>
                     <div class="carousel-item">
-                        <img src="..." class="d-block w-100" alt="...">
+                        <img src="./img/TecnologyFace.jpg" class="d-block w-100" alt="...">
                     </div>
                     <div class="carousel-item">
-                        <img src="..." class="d-block w-100" alt="...">
+                        <img src="./img/TecnologyFace.jpg" class="d-block w-100" alt="...">
                     </div>
                 </div>
                     <button class="carousel-control-prev" type="button" data-target="#carouselExampleIndicators" data-slide="prev">

@@ -13,6 +13,9 @@ main .NoticiaTopo .carroussel{
     width: 80vw;
     height: 60vh;
 }
+main .NoticiaTopo .carroussel .carousel-inner img{
+    height: 60vh;
+}
 main .NoticiaTopo .IndexNoticiaTopoBlocks{
     width: 100vw;
     height: 38vh;
