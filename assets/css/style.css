@@ -497,3 +497,7 @@ figcaption{
     height: 55vh;
     align-self: center;
 }
+.NoticiaLayoutConfiguration .NoticiaLeft h3{
+    margin-left: 10em;
+    margin-top: 0.8em;
+}
