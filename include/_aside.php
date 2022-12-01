@@ -1,5 +1,4 @@
 <aside>
-    <span class="divbaraside"></span>
     <div class="MaisLidos">
         <h1>Mais Lidos</h1>
         <a href="noticiaPedro.php" class="ArtigosMaisLidos">
@@ -12,7 +11,7 @@
             </span>
         </a>
         <span class="divbaraside2"></span>
-        <a href="" class="ArtigosMaisLidos">
+        <a href="noticia-enzo.php" class="ArtigosMaisLidos">
             <span class="box1MaisLidos">
                 <h3>Metaverso, novo universo na internet.</h3>
                 <p>O metaverso, o que ele é? Como ele funciona? Onde ele fica? E como ele impacta nas nossas vidas?</p>
