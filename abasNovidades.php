@@ -23,24 +23,24 @@ include_once './include/_header.php';
                 </a>
             </div>
             <span class="AbasDivBarNovidades"></span>
-            <a href="" class="AbasNovidadesArtigos">
+            <a href="noticia-raphael.php" class="AbasNovidadesArtigos">
                 <div class="AbasNovidadesArtigos1">
-                    <img src="" alt="">
+                    <img src="./img/rtx.jpg" alt="">
                     <span class="AbasNovidadesArtigos1TextBox">
-                        <h1>Titulo</h1>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas nemo aspernatur temporibus consequatur nostrum cum facilis totam et culpa, exercitationem voluptatum voluptatem, blanditiis nisi impedit quas eveniet earum tempora maxime.</p>
-                        <p class="AbasNovidadesArtigos1TextBoxSubTitle">hbinonmobyrdfbuiojnm 7tvbniuoi g6rtuy i </p>                    
+                        <h1>NVIDIA Geforce RTX 4090 chegou! Saiba como foi seu modelo de lançamento.</h1>
+                        <p>Venha saber mais sobre o novo lançamento na NVIDIA, trazendo uma tecnologia de ponta e inovadora para aqueles que estão interessados em uma grande melhora na performance de placa de videos</p>
+                        <p class="AbasNovidadesArtigos1TextBoxSubTitle">#Noticia / Autor: Raphael Barcelos</p>                    
                     </span>
                 </div>
             </a>
             <span class="AbasDivBarNovidades"></span>
-            <a href="" class="AbasNovidadesArtigos">
+            <a href="artigo-raphael.php" class="AbasNovidadesArtigos">
                 <div class="AbasNovidadesArtigos1">
-                    <img src="" alt="">
+                    <img src="./img/ia.jpg" alt="">
                     <span class="AbasNovidadesArtigos1TextBox">
-                        <h1>Titulo</h1>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas nemo aspernatur temporibus consequatur nostrum cum facilis totam et culpa, exercitationem voluptatum voluptatem, blanditiis nisi impedit quas eveniet earum tempora maxime.</p>
-                        <p class="AbasNovidadesArtigos1TextBoxSubTitle">hbinonmobyrdfbuiojnm 7tvbniuoi g6rtuy i </p>                    
+                        <h1>Como a inteligência artificial pode mudar o mercado de trabalho. </h1>
+                        <p>Tanto o mercado como o pensamentos das pessoas tem se movimentado bastante em relação a novas tecnologias, principalmente quando o assunto é inteligência artificial, venha saber mais.</p>
+                        <p class="AbasNovidadesArtigos1TextBoxSubTitle">#Artigo de opinião / Autor: Raphael Barcelos</p>                    
                     </span>
                 </div>
             </a>

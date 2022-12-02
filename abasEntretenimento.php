@@ -24,12 +24,12 @@ include_once './include/_header.php';
             </div>
             <span class="AbasDivBarNovidades"></span>
             <div class="AbasNovidadesArtigos">
-                <a href="" class="AbasNovidadesArtigos1">
-                    <img src="" alt="">
+                <a href="cronica-raphael.php" class="AbasNovidadesArtigos1">
+                    <img src="./img/bluetooth.jpg" alt="">
                     <span class="AbasNovidadesArtigos1TextBox">
-                        <h1>Titulo</h1>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas nemo aspernatur temporibus consequatur nostrum cum facilis totam et culpa, exercitationem voluptatum voluptatem, blanditiis nisi impedit quas eveniet earum tempora maxime.</p>
-                        <p class="AbasNovidadesArtigos1TextBoxSubTitle">hbinonmobyrdfbuiojnm 7tvbniuoi g6rtuy i </p>                    
+                        <h1>Bluetooth</h1>
+                        <p>Já parou para pensar sobre o bluetooth</p>
+                        <p class="AbasNovidadesArtigos1TextBoxSubTitle">#Crônica / Autor: Raphael Barcelos</p>                    
                     </span>
                 </a>
             </div>
