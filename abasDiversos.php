@@ -46,23 +46,23 @@ include_once './include/_header.php';
             </div>
             <span class="AbasDivBarNovidades"></span>
             <div class="AbasNovidadesArtigos">
-                <a href="" class="AbasNovidadesArtigos1">
-                    <img src="" alt="">
+                <a href="cronica-enzo.php" class="AbasNovidadesArtigos1">
+                    <img src="./img/celular.png" alt="celular">
                     <span class="AbasNovidadesArtigos1TextBox">
-                        <h1>Titulo</h1>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas nemo aspernatur temporibus consequatur nostrum cum facilis totam et culpa, exercitationem voluptatum voluptatem, blanditiis nisi impedit quas eveniet earum tempora maxime.</p>
-                        <p class="AbasNovidadesArtigos1TextBoxSubTitle">hbinonmobyrdfbuiojnm 7tvbniuoi g6rtuy i </p>                    
+                        <h1>Meu celular</h1>
+                        <p>Celular, uma coisa tão pequena, mas que é tão importante pra nós.</p>
+                        <p class="AbasNovidadesArtigos1TextBoxSubTitle">#Crônica / Autor: Enzo Braga</p>                    
                     </span>
                 </a>
             </div>
             <span class="AbasDivBarNovidades"></span>
             <div class="AbasNovidadesArtigos">
-                <a href="" class="AbasNovidadesArtigos1">
-                    <img src="" alt="">
+                <a href="artigo-enzo.php" class="AbasNovidadesArtigos1">
+                    <img src="./img/marte.png" alt="marte">
                     <span class="AbasNovidadesArtigos1TextBox">
-                        <h1>Titulo</h1>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas nemo aspernatur temporibus consequatur nostrum cum facilis totam et culpa, exercitationem voluptatum voluptatem, blanditiis nisi impedit quas eveniet earum tempora maxime.</p>
-                        <p class="AbasNovidadesArtigos1TextBoxSubTitle">hbinonmobyrdfbuiojnm 7tvbniuoi g6rtuy i </p>                    
+                        <h1>Colonização em marte</h1>
+                        <p>Colonização em Marte, sonho ou realidade?</p>
+                        <p class="AbasNovidadesArtigos1TextBoxSubTitle">#Artigo de opnião / Autor: Enzo Braga</p>                    
                     </span>
                 </a>
             </div>
