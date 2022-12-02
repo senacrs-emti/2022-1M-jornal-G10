@@ -14,12 +14,14 @@ include_once './include/_header.php';
             <span class="AbasDivBarNovidades"></span>
             <div class="AbasNovidadesArtigos">
                 <div class="AbasNovidadesArtigos1">
+                <a href="artigo-vini.php" class="AbasNovidadesArtigos1">
                     <img src="./img/meioambiente.jpg" alt="">
                     <span class="AbasNovidadesArtigos1TextBox">
                         <h1>Impactos da Tecnologia no Meio Ambiente</h1>
                         <p>A poluição do Meio Ambiente e a influência da tecnologia sobre ele.</p>
                         <p class="AbasNovidadesArtigos1TextBoxSubTitle">#Artigo de opinião / Autor: Vinícius Ross</p>                    
                     </span>
+                </a>
                 </div>
             </div>
             <span class="AbasDivBarNovidades"></span>

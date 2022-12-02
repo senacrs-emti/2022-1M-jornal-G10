@@ -31,13 +31,13 @@
             </span>
         </a>
         <span class="divbaraside2"></span>
-        <a href="" class="ArtigosMaisLidos">
+        <a href="artigo-cunha.php" class="ArtigosMaisLidos">
             <span class="box1MaisLidos">
-                <h3>Lorem lore lor loren</h3>
-                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.ojnvwl  </p>
+                <h3>Novas tecnologias no auxílio de arbitragem</h3>
+                <p>No início desse ano criaram um var semi-automático e agora enquanto está tendo a copa do mundo, ele está sendo utilizado no Qatar.  </p>
             </span>
             <span class="box2MaisLidos">
-                <img src="" alt="">
+                <img src="./img/var.jpg" alt="">
             </span>
         </a>
         <span class="divbaraside2"></span>

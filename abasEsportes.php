@@ -27,12 +27,14 @@ include_once './include/_header.php';
             <span class="AbasDivBarNovidades"></span>
             <div class="AbasNovidadesArtigos">
                 <div class="AbasNovidadesArtigos1">
-                    <img src="" alt="">
+                <a href="artigo-cunha.php" class="AbasNovidadesArtigos1">
+                    <img src="./img/var.jpg" alt="">
                     <span class="AbasNovidadesArtigos1TextBox">
-                        <h1>Titulo</h1>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas nemo aspernatur temporibus consequatur nostrum cum facilis totam et culpa, exercitationem voluptatum voluptatem, blanditiis nisi impedit quas eveniet earum tempora maxime.</p>
-                        <p class="AbasNovidadesArtigos1TextBoxSubTitle">hbinonmobyrdfbuiojnm 7tvbniuoi g6rtuy i </p>                    
+                        <h1>Novas tecnologias no auxílio de arbitragem</h1>
+                        <p>No início desse ano criaram um var semi-automático e agora enquanto está tendo a copa do mundo, ele está sendo utilizado no Qatar.</p>
+                        <p class="AbasNovidadesArtigos1TextBoxSubTitle">#Artigo de opinião / Autor: Matheus Cunha </p>                    
                     </span>
+                </a>
                 </div>
             </div>
             <span class="AbasDivBarNovidades"></span>

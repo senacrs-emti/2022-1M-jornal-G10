@@ -5,8 +5,8 @@
         <div class="box1noticia"></div>
             <h1 class="titulonoticia">Impactos da Tecnologia no Meio Ambiente</h1>
             <center><img src="./img/meioambiente.jpg" alt=""></center>
-            <figcaption>📷(crédito: <a href="https://tudotecnologia.net/e-possivel-evitar-os-impactos-da-tecnologia-no-meio-ambiente/"> https://tudotecnologia.net/e-possivel-evitar-os-impactos-da-tecnologia-no-meio-ambiente/</a> )</figcaption>
             <hr class="divbarnotice"></hr>
+            <figcaption>📷(crédito: <a href="https://tudotecnologia.net/e-possivel-evitar-os-impactos-da-tecnologia-no-meio-ambiente/"> https://tudotecnologia.net/e-possivel-evitar-os-impactos-da-tecnologia-no-meio-ambiente/</a> )</figcaption>
             <div class="box2noticia"></div>
         <div class="texto_not">
             <p class="pnoticia1">Como todos sabem, a poluição do meio ambiente não é de agora e atualmente a tecnologia é um dos principais fatores disso. Pode ser pelos veículos que tenham motor de combustão que acaba soltando dióxido de carbono que polui o meio ambiente. A obsolescência programada é um problema gigantesco, pois com a evolução da tecnologia isso ocorre cada vez mais. Tendo novos produtos todos os anos algumas pessoas pensam que ele fica obsoleto, mas na realidade não e está funcionando perfeitamente.</p>

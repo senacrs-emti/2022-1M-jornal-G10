@@ -14,12 +14,14 @@ include_once './include/_header.php';
             <span class="AbasDivBarNovidades"></span>
             <div class="AbasNovidadesArtigos">
                 <div class="AbasNovidadesArtigos1">
-                    <img src="" alt="">
+                <a href="noticia-cunha.php" class="AbasNovidadesArtigos1">
+                    <img src="./img/alanzoka.jpg" alt="">
                     <span class="AbasNovidadesArtigos1TextBox">
-                        <h1>Titulo</h1>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas nemo aspernatur temporibus consequatur nostrum cum facilis totam et culpa, exercitationem voluptatum voluptatem, blanditiis nisi impedit quas eveniet earum tempora maxime.</p>
-                        <p class="AbasNovidadesArtigos1TextBoxSubTitle">hbinonmobyrdfbuiojnm 7tvbniuoi g6rtuy i </p>                    
+                        <h1>Streamer, sua nova profissão do futuro</h1>
+                        <p>O que é ser um Streamer?</p>
+                        <p class="AbasNovidadesArtigos1TextBoxSubTitle">#Noticia / Autor: Matheus Cunha</p>                    
                     </span>
+                </a>
                 </div>
             </div>
             <span class="AbasDivBarNovidades"></span>

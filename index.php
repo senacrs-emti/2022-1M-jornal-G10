@@ -86,11 +86,11 @@ include_once './include/_header.php';
                 </div>
             </a>
             <span class="IndexArtigoDivBar"></span>
-            <a class="IndexArtigoNoticaTextBlock1">
-                <img src="" alt="" class="IndexArtigoNoticaTextBlock1Img">
+            <a href="noticia-cunha.php" class="IndexArtigoNoticaTextBlock1">
+                <img src="./img/alanzoka.jpg" alt="" class="IndexArtigoNoticaTextBlock1Img">
                 <div class="IndexArtigoNoticaTextBlock1Texts">
-                    <h1>Titulo</h1>
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Omnis consequatur fuga mollitia quas amet, cupiditate molestias impedit? Sed obcaecati sapiente fugiat quaerat placeat ipsa iusto! Odit fuga incidunt adipisci commodi!</p>
+                    <h1>Streamer, sua nova profissão do futuro </h1>
+                    <p>O que é ser um Streamer?</p>
                 </div>
             </a>
         </div>
