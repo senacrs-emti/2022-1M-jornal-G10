@@ -23,7 +23,7 @@
         <span class="divbaraside2"></span>
         <a href="noticia-vini.php" class="ArtigosMaisLidos">
             <span class="box1MaisLidos">
-                <h3>IEM Major Rio 2022 e a saga dos times brasileiros</h3>
+                <h3>IEM Major e a saga dos times brasileiros</h3>
                 <p>O IEM Major Rio 2022 foi o primeiro mundial de CS:GO no Brasil. </p>
             </span>
             <span class="box2MaisLidos">
@@ -33,7 +33,7 @@
         <span class="divbaraside2"></span>
         <a href="artigo-cunha.php" class="ArtigosMaisLidos">
             <span class="box1MaisLidos">
-                <h3>Novas tecnologias no auxílio de arbitragem</h3>
+                <h3>Tecnologias no auxílio de arbitragem</h3>
                 <p>No início desse ano criaram um var semi-automático e agora enquanto está tendo a copa do mundo, ele está sendo utilizado no Qatar.  </p>
             </span>
             <span class="box2MaisLidos">
