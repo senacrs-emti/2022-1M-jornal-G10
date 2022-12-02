@@ -23,7 +23,7 @@ include_once './include/_header.php';
                 </a>
             </div>
             <span class="AbasDivBarNovidades"></span>
-            <a class="AbasNovidadesArtigos">
+            <a href="" class="AbasNovidadesArtigos">
                 <div class="AbasNovidadesArtigos1">
                     <img src="" alt="">
                     <span class="AbasNovidadesArtigos1TextBox">
@@ -34,7 +34,7 @@ include_once './include/_header.php';
                 </div>
             </a>
             <span class="AbasDivBarNovidades"></span>
-            <a class="AbasNovidadesArtigos">
+            <a href="" class="AbasNovidadesArtigos">
                 <div class="AbasNovidadesArtigos1">
                     <img src="" alt="">
                     <span class="AbasNovidadesArtigos1TextBox">
@@ -45,7 +45,7 @@ include_once './include/_header.php';
                 </div>
             </a>
             <span class="AbasDivBarNovidades"></span>
-            <a class="AbasNovidadesArtigos">
+            <a href="" class="AbasNovidadesArtigos">
                 <div class="AbasNovidadesArtigos1">
                     <img src="" alt="">
                     <span class="AbasNovidadesArtigos1TextBox">
@@ -56,7 +56,7 @@ include_once './include/_header.php';
                 </div>
             </a>
             <span class="AbasDivBarNovidades"></span>
-            <a class="AbasNovidadesArtigos">
+            <a href="" class="AbasNovidadesArtigos">
                 <div class="AbasNovidadesArtigos1">
                     <img src="" alt="">
                     <span class="AbasNovidadesArtigos1TextBox">
@@ -67,7 +67,7 @@ include_once './include/_header.php';
                 </div>
             </a>
             <span class="AbasDivBarNovidades"></span>
-            <a class="AbasNovidadesArtigos">
+            <a href="" class="AbasNovidadesArtigos">
                 <div class="AbasNovidadesArtigos1">
                     <img src="" alt="">
                     <span class="AbasNovidadesArtigos1TextBox">
@@ -78,7 +78,7 @@ include_once './include/_header.php';
                 </div>
             </a>
             <span class="AbasDivBarNovidades"></span>
-            <a class="AbasNovidadesArtigos">
+            <a href="" class="AbasNovidadesArtigos">
                 <div class="AbasNovidadesArtigos1">
                     <img src="" alt="">
                     <span class="AbasNovidadesArtigos1TextBox">
