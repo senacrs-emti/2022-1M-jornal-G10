@@ -78,11 +78,11 @@ include_once './include/_header.php';
                 </div>
             </a>
             <span class="IndexArtigoDivBar"></span>
-            <a class="IndexArtigoNoticaTextBlock1">
-                <img src="" alt="" class="IndexArtigoNoticaTextBlock1Img">
+            <a href="noticia-vini.php" class="IndexArtigoNoticaTextBlock1">
+                <img src="./img/furia.jpg" alt="" class="IndexArtigoNoticaTextBlock1Img">
                 <div class="IndexArtigoNoticaTextBlock1Texts">
-                    <h1>Titulo</h1>
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Omnis consequatur fuga mollitia quas amet, cupiditate molestias impedit? Sed obcaecati sapiente fugiat quaerat placeat ipsa iusto! Odit fuga incidunt adipisci commodi!</p>
+                    <h1>IEM Major Rio 2022 e a saga dos times brasileiros</h1>
+                    <p>O IEM Major Rio 2022 foi o primeiro mundial de CS:GO no Brasil.</p>
                 </div>
             </a>
             <span class="IndexArtigoDivBar"></span>

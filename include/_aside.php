@@ -21,13 +21,13 @@
             </span>
         </a>
         <span class="divbaraside2"></span>
-        <a href="" class="ArtigosMaisLidos">
+        <a href="noticia-vini.php" class="ArtigosMaisLidos">
             <span class="box1MaisLidos">
-                <h3>Lorem lore lor loren</h3>
-                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.ojnvwl  </p>
+                <h3>IEM Major Rio 2022 e a saga dos times brasileiros</h3>
+                <p>O IEM Major Rio 2022 foi o primeiro mundial de CS:GO no Brasil. </p>
             </span>
             <span class="box2MaisLidos">
-                <img src="" alt="">
+                <img src="./img/furia.jpg" alt="">
             </span>
         </a>
         <span class="divbaraside2"></span>

@@ -35,12 +35,12 @@ include_once './include/_header.php';
             </div>
             <span class="AbasDivBarNovidades"></span>
             <div class="AbasNovidadesArtigos">
-                <a href="" class="AbasNovidadesArtigos1">
-                    <img src="" alt="">
+                <a href="cronica-vini.php" class="AbasNovidadesArtigos1">
+                    <img src="./img/sinaleira.jpeg" alt="">
                     <span class="AbasNovidadesArtigos1TextBox">
-                        <h1>Titulo</h1>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas nemo aspernatur temporibus consequatur nostrum cum facilis totam et culpa, exercitationem voluptatum voluptatem, blanditiis nisi impedit quas eveniet earum tempora maxime.</p>
-                        <p class="AbasNovidadesArtigos1TextBoxSubTitle">hbinonmobyrdfbuiojnm 7tvbniuoi g6rtuy i </p>                    
+                        <h1>Sinaleira</h1>
+                        <p>A Sinaleira, sempre está vermelha quando mais precisamos.</p>
+                        <p class="AbasNovidadesArtigos1TextBoxSubTitle">#Crônica / Autor: Vinícius Ross</p>                    
                     </span>
                 </a>
             </div>

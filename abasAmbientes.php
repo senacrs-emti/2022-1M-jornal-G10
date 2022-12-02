@@ -14,11 +14,11 @@ include_once './include/_header.php';
             <span class="AbasDivBarNovidades"></span>
             <div class="AbasNovidadesArtigos">
                 <div class="AbasNovidadesArtigos1">
-                    <img src="" alt="">
+                    <img src="./img/meioambiente.jpg" alt="">
                     <span class="AbasNovidadesArtigos1TextBox">
-                        <h1>Titulo</h1>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas nemo aspernatur temporibus consequatur nostrum cum facilis totam et culpa, exercitationem voluptatum voluptatem, blanditiis nisi impedit quas eveniet earum tempora maxime.</p>
-                        <p class="AbasNovidadesArtigos1TextBoxSubTitle">hbinonmobyrdfbuiojnm 7tvbniuoi g6rtuy i </p>                    
+                        <h1>Impactos da Tecnologia no Meio Ambiente</h1>
+                        <p>A poluição do Meio Ambiente e a influência da tecnologia sobre ele.</p>
+                        <p class="AbasNovidadesArtigos1TextBoxSubTitle">#Artigo de opinião / Autor: Vinícius Ross</p>                    
                     </span>
                 </div>
             </div>
