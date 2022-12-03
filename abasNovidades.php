@@ -22,7 +22,7 @@ include_once './include/_header.php';
                 <a href="noticia-raphael.php" class="AbasNovidadesArtigos1">
                     <img src="./img/rtx.jpg" alt="">
                     <span class="AbasNovidadesArtigos1TextBox">
-                    <h1>RTX 4090 chegou! Saiba como foi</h1>
+                    <h1>RTX 4090 chegou!</h1>
                         <p>Venha saber mais sobre o novo lançamento na NVIDIA, trazendo uma tecnologia de ponta e inovadora para aqueles que estão interessados em uma grande melhora na performance de placa de videos</p>
                         <p class="AbasNovidadesArtigos1TextBoxSubTitle">#Noticia / Autor: Raphael Barcelos</p>                 
                     </span>
@@ -33,7 +33,7 @@ include_once './include/_header.php';
                 <a href="artigo-raphael.php" class="AbasNovidadesArtigos1">
                     <img src="./img/ia.jpg" alt="">
                     <span class="AbasNovidadesArtigos1TextBox">
-                        <h1>Como a inteligência artificial pode mudar o mercado de trabalho. </h1>
+                        <h1>IA pode mudar o mercado? </h1>
                         <p>Tanto o mercado como o pensamentos das pessoas tem se movimentado bastante em relação a novas tecnologias, principalmente quando o assunto é inteligência artificial, venha saber mais.</p>
                         <p class="AbasNovidadesArtigos1TextBoxSubTitle">#Artigo de opinião / Autor: Raphael Barcelos</p>                    
                     </span>
