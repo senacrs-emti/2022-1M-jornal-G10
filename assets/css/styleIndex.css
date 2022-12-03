@@ -10,6 +10,7 @@ main .NoticiaTopo{
 }
 main .NoticiaTopo .carroussel{
     margin-top: 4vh;
+    margin-bottom: 3vh;
     width: 80vw;
     height: 60vh;
 }

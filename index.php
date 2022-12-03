@@ -17,15 +17,15 @@ include_once './include/_header.php';
                     <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
                 </ol>
                 <div class="carousel-inner">
-                    <div class="carousel-item active">
-                        <img src="./img/TecnologyFace.jpg" class="d-block w-100" alt="...">
-                    </div>
-                    <div class="carousel-item">
-                        <img src="./img/TecnologyFace.jpg" class="d-block w-100" alt="...">
-                    </div>
-                    <div class="carousel-item">
-                        <img src="./img/TecnologyFace.jpg" class="d-block w-100" alt="...">
-                    </div>
+                    <a href="artigo-enzo.php" class="carousel-item active">
+                        <img src="./img/marte.png" class="d-block w-100" alt="...">
+                    </a>
+                    <a href="noticia-vini.php" class="carousel-item">
+                        <img src="./img/furia.jpg" class="d-block w-100" alt="...">
+                    </a>
+                    <a href="artigo-vini.php" class="carousel-item">
+                        <img src="./img/meioambiente.jpg" class="d-block w-100" alt="...">
+                    </a>
                 </div>
                     <button class="carousel-control-prev" type="button" data-target="#carouselExampleIndicators" data-slide="prev">
                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -36,11 +36,6 @@ include_once './include/_header.php';
                     <span class="sr-only">Next</span>
                 </button>
             </div>
-        </div>
-        <div class="IndexNoticiaTopoBlocks">
-            <a href="noticia.php" class="IndexBlock1"></a>
-            <a href="noticia.php" class="IndexBlock1"></a>
-            <a href="noticia.php" class="IndexBlock1"></a>
         </div>
     </div>
     <div class="AsideMainCorpo">

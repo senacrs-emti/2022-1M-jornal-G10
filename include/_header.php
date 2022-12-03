@@ -27,8 +27,6 @@
             <span class="navseparationbar"></span>
             <a href="abasEntretenimento.php">Entretenimento</a>
             <span class="navseparationbar"></span>
-            <a href="abasAplicativos.php">Aplicativos</a>
-            <span class="navseparationbar"></span>
             <a href="abasAmbientes.php">Meio-Ambiente</a>
             <span class="navseparationbar"></span>
             <a href="abasDiversos.php">Diversos</a>

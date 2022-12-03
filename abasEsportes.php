@@ -3,14 +3,9 @@ include_once './include/_header.php';
 ?>
 
 <main>
-    <div class="NoticiaTopo">
-        <div class="abasPropaganda">
-            <a class="abasTest"></a>
-        </div>   
-    </div> 
     <div class="AbasCorpo">
         <div class="AbasNovidades">
-            <h1>Novidades:</h1>
+            <h1>Esportes:</h1>
             <span class="AbasDivBarNovidades"></span>
             <div class="AbasNovidadesArtigos">
                 <a href="noticia-vini.php" class="AbasNovidadesArtigos1">
@@ -30,61 +25,6 @@ include_once './include/_header.php';
                         <h1>Novas tecnologias no auxílio de arbitragem</h1>
                         <p>No início desse ano criaram um var semi-automático e agora enquanto está tendo a copa do mundo, ele está sendo utilizado no Qatar.</p>
                         <p class="AbasNovidadesArtigos1TextBoxSubTitle">#Artigo de opinião / Autor: Matheus Cunha </p>                    
-                    </span>
-                </a>
-            </div>
-            <span class="AbasDivBarNovidades"></span>
-            <div class="AbasNovidadesArtigos">
-                <a href="" class="AbasNovidadesArtigos1">
-                    <img src="" alt="">
-                    <span class="AbasNovidadesArtigos1TextBox">
-                        <h1>Titulo</h1>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas nemo aspernatur temporibus consequatur nostrum cum facilis totam et culpa, exercitationem voluptatum voluptatem, blanditiis nisi impedit quas eveniet earum tempora maxime.</p>
-                        <p class="AbasNovidadesArtigos1TextBoxSubTitle">hbinonmobyrdfbuiojnm 7tvbniuoi g6rtuy i </p>                    
-                    </span>
-                </a>
-            </div>
-            <span class="AbasDivBarNovidades"></span>
-            <div class="AbasNovidadesArtigos">
-                <a href="" class="AbasNovidadesArtigos1">
-                    <img src="" alt="">
-                    <span class="AbasNovidadesArtigos1TextBox">
-                        <h1>Titulo</h1>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas nemo aspernatur temporibus consequatur nostrum cum facilis totam et culpa, exercitationem voluptatum voluptatem, blanditiis nisi impedit quas eveniet earum tempora maxime.</p>
-                        <p class="AbasNovidadesArtigos1TextBoxSubTitle">hbinonmobyrdfbuiojnm 7tvbniuoi g6rtuy i </p>                    
-                    </span>
-                </a>
-            </div>
-            <span class="AbasDivBarNovidades"></span>
-            <div class="AbasNovidadesArtigos">
-                <a href="" class="AbasNovidadesArtigos1">
-                    <img src="" alt="">
-                    <span class="AbasNovidadesArtigos1TextBox">
-                        <h1>Titulo</h1>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas nemo aspernatur temporibus consequatur nostrum cum facilis totam et culpa, exercitationem voluptatum voluptatem, blanditiis nisi impedit quas eveniet earum tempora maxime.</p>
-                        <p class="AbasNovidadesArtigos1TextBoxSubTitle">hbinonmobyrdfbuiojnm 7tvbniuoi g6rtuy i </p>                    
-                    </span>
-                </a>
-            </div>
-            <span class="AbasDivBarNovidades"></span>
-            <div class="AbasNovidadesArtigos">
-                <a href="" class="AbasNovidadesArtigos1">
-                    <img src="" alt="">
-                    <span class="AbasNovidadesArtigos1TextBox">
-                        <h1>Titulo</h1>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas nemo aspernatur temporibus consequatur nostrum cum facilis totam et culpa, exercitationem voluptatum voluptatem, blanditiis nisi impedit quas eveniet earum tempora maxime.</p>
-                        <p class="AbasNovidadesArtigos1TextBoxSubTitle">hbinonmobyrdfbuiojnm 7tvbniuoi g6rtuy i </p>                    
-                    </span>
-                </a>
-            </div>
-            <span class="AbasDivBarNovidades"></span>
-            <div class="AbasNovidadesArtigos">
-                <a href="" class="AbasNovidadesArtigos1">
-                    <img src="" alt="">
-                    <span class="AbasNovidadesArtigos1TextBox">
-                        <h1>Titulo</h1>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas nemo aspernatur temporibus consequatur nostrum cum facilis totam et culpa, exercitationem voluptatum voluptatem, blanditiis nisi impedit quas eveniet earum tempora maxime.</p>
-                        <p class="AbasNovidadesArtigos1TextBoxSubTitle">hbinonmobyrdfbuiojnm 7tvbniuoi g6rtuy i </p>                    
                     </span>
                 </a>
             </div>

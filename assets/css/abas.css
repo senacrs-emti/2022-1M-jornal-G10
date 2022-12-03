@@ -52,6 +52,9 @@
     text-align: justify;
     text-indent: 2vw;
 }
+.AbasCorpo .AbasNovidades .AbasNovidadesArtigos1 h1{
+    width: 35vw;
+}
 .AbasCorpo .AbasNovidades .AbasNovidadesArtigos1 .AbasNovidadesArtigos1TextBoxSubTitle{
     font-size: 0.8em;
     text-indent: 0vw;
