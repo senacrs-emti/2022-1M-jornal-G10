@@ -23,7 +23,7 @@ include_once './include/_header.php';
                     <img src="./img/rtx.jpg" alt="">
                     <span class="AbasNovidadesArtigos1TextBox">
                     <h1>RTX 4090 chegou!</h1>
-                        <p>Venha saber mais sobre o novo lançamento na NVIDIA, trazendo uma tecnologia de ponta e inovadora para aqueles que estão interessados em uma grande melhora na performance de placa de videos</p>
+                        <p>Venha saber mais sobre o novo lançamento na NVIDIA, trazendo uma tecnologia inovadora para aqueles que estão interessados em uma grande melhora na performance de placa de videos</p>
                         <p class="AbasNovidadesArtigos1TextBoxSubTitle">#Noticia / Autor: Raphael Barcelos</p>                 
                     </span>
                 </a>
